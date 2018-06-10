@@ -1,4 +1,9 @@
 {
+    "/home/travis/build/mitchellkrogza/Phishing-URL-Testing-Database-of-Link-Statuses/input-source/ALL-feeds.list": {
+        "1528643886": [
+            ""
+        ]
+    },
     "/home/travis/build/mitchellkrogza/Phishing.Database/dev-tools/phishing-domains-IDNA.list": {
         "1528208844": [
             ".rowq4qvncrw8mvu6oe5.u8rn",
