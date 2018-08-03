@@ -1,7 +1,21 @@
+00-10 
+00-12 
+1 
+11-10 
+11-11 
+11-12 
+11-17 
+11-19 
+45-58 
+54-07 
+5h5r 
 a71/ 
+Binary file (standard input) matches 
 ftp://188.128.111.33/IPTV/TV1324/view.html 
 ftp://91.100.103.231/shares/Internal_Disk/index.html 
 ftp://test1234567:test1234567@www.doorcomponents.com/flash_player.htm 
+HMGNK 
+ht.com/smarty/www.loginalibaba.com/alibaba/alibaba/login.alibaba.com.php?.rand=13vqcr8bp0gud&amp;cbcxt=mai&amp;email=abuse@rediffmail.com%20&amp;id=64855&amp;lc=1033&amp;mkt=en-us&amp;snsc=1 
 http://02Zps9iimWO9GukLUvZ8.littlematchagirl.com.au/back/access.php?session=9b628e9a040f13d30087d2163405f6689b628e9a040f13d30087d2163405f668 
 http://02Zps9iimWO9GukLUvZ8.littlematchagirl.com.au/back/mail.php?session=f7bc4b0def34f33c3bca5f108373fc36f7bc4b0def34f33c3bca5f108373fc36 
 http://0DydUzEdypyCww7tklhd.littlematchagirl.com.au/stress/access.php?session=08bb62e8c9d57eb0fa8ffdf4e40031dc08bb62e8c9d57eb0fa8ffdf4e40031dc 
@@ -477,6 +491,7 @@ http://lUWarsxpM3BX14LiOFXc.littlematchagirl.com.au/back/access.php?session=c7cd
 http://lUWarsxpM3BX14LiOFXc.littlematchagirl.com.au/back/mail.php?session=01e4ffd15a7b1eaa3dc09238eb3d450001e4ffd15a7b1eaa3dc09238eb3d4500 
 "http://madkap.de/cgi-bin/6bf17db119b3a5092db970739c5d2a6f/?userid=&.verify?service=mail&data:text/html;charset=utf-8;base64 
 "http://mailclick.due.com/wf/click?upn=RxIYjVulejiK4xHuqDawXzqzXYOU WSGInSxuZDZXmFs-3D_ESmEhBiEgpWYdTFnFce4JINrsQyRrEoNjG6mlP9wAUZZEfMACVkaaKhVh AXUuuQtXYpZjgn05o5BGH-2Fl0EpE3P-2FFt05YAgE7TuTqN0aPmTV948FEqjbHr5gIug1HecJT1 W-2Boz0Nx5-2FjZepshUPibgEvKq9jIMp8UZKcFq4iDuSU8IbBZfIinvWCyEem-2BuMauyZunhrW xgE1qzYdfVxuKRw-3D-3D" 
+"http://mailclick.due.com/wf/click?upn=RxIYjVulejiK4xHuqDawXzqzXYOU WSGInSxuZDZXmFs-3D_ESmEhBiEgpWYdTFnFce4JINrsQyRrEoNjG6mlP9wAUZZEfMACVkaaKhVh AXUuuQtXYpZjgn05o5BGH-2Fl0EpE3P-2FFt05YAgE7TuTqN0aPmTV948FEqjbHr5gIug1HecJT1 W-2Boz0Nx5-2FjZepshUPibgEvKq9jIMp8UZKcFq4iDuSU8IbBZfIinvWCyEem-2BuMauyZunhrW xgE1qzYdfVxuKRw-3D-3D" 
 "http://malanims.com/amex/amex/verification.html?rlz=1C1CHZL_enIN764IN764&amp;bbn=1350387031&amp;fst=as:off&amp;keywords=BGO_DOTD&amp;qid=1524820597&amp;rh=k:BGO_DOTD 
 "http://match910photos.890m.com/index.htm/ ?" 
 "http://match.com-mynewphotos.extravaganceironworks.com/#/ ?" 
@@ -635,6 +650,9 @@ http://sAK6qZIaoFvBIW8DyrwY.ulasteaq.gq/online/mail.php?session=bef2ee096b8044d7
 "https://arktysn.000webhostapp.com/nex/nexyi/45db9b4926f10c12b23e330412b10def?cmd=_identifier_Demarrer_ID=65147372205%20_TIme:Sat 
 "https://arktysn.000webhostapp.com/nex/nexyi/45db9b4926f10c12b23e330412b10def/?cmd=_identifier_Demarrer_ID=65147372205%20_TIme:Sat 
 "https://arktysn.000webhostapp.com/nex/nexyi/4e72460de317e38c7cb098f651daf9cc/?cmd=_identifier_Demarrer_ID=2407692944337%20_TIme:Sat 
+"https://asmakgroup.in/myaccount/cookies/0ndizztu=/signin/?country.x=&amp;locale.x=en-US 
+"https://asmakgroup.in/myaccount/cookies/2ndk1yme=/signin/?country.x=&amp;locale.x=en-US 
+"https://asmakgroup.in/myaccount/cookies/3yjy3zjm=/signin/?country.x=&amp;locale.x=en-US 
 "https://asxvideoperu.com.pe/images/pp/pp/signin/?country.x=CH&locale.x=de 
 "https://bargemansrest.com/jrmcm/login.php?https://login.live.com/GetSessionState.srf?response_type=code&amp;client_id=51483342-085c-4d86-bf88-cf50c7252078&amp;scope=openid profile email offline_access&amp;response_mode=form_post&amp;redirect_uri=https%3a%2f%2flogin.microsoftonline.com%2fcommon%2ffederation%2foauth2&amp;state=rQIIAeNisNLLKCkpKLbS109Myc3M0ysoyi9JTS7JzM_Tyy8tycnPz9ZLzs_Vyy9Kz0wBsYqEuAQUN61SL7LY4N-7wPjWqz9ev2YxcsbnZJalguRXMWoSY6B-anKB_gVGxheMjJuY2H2dPOO9XSNPMDUfk7vFJOhflO6ZEl7slpqSWpQI0nmBReAVC48BsxUHB5sAowSDAsMPFsZFrECnTAo1qLmuZuK0OaTi9yltYYZTrPoF2flJ3mF5xZ5ubgbZfvmu5mmRptmpzmEmxvplAZYF5VU-FaFhZb4B2VXJtkZWhhPYhCawMZ1iY9jFSbzLAQ2&amp;estsfed=1&amp;uaid=27aab22138724fb08da033daeafc4afa&amp;vaccess&amp;response_mode=form_post&amp;redirect_uri=https%3a%2f%2flogin.microsoftonline.com%2fcommon%2ffederation%2foauth2&amp;state=rQIIAeNisNLLKCkpKLbS109Myc3M0ysoyi9JTS7JzM_Tyy8tycnPz9ZLzs_Vyy9Kz0wBsYqEuAQUN61SL7LY4N-7wPjWqz9ev2YxcsbnZJalguRXMWoSY6B-anKB_gVGxheMjJuY2H2dPOO9XSNPMDUfk7vFJOhflO6ZEl7slpqSWpQI0nmBReAVC48BsxUHB5sAowSDAsMPFsZFrECnTAo1qLmuZuK0OaTi9yltYYZTrPoF2flJ3mF5xZ5ubgbZfvmu5mmRptmpzmEmxvplAZYF5VU-FaFhZb4B2VXJtkZWhhPYhCawMZ1iY9jFSbzLAQ2&amp;estsfed=1&amp;uaid=27aab22138724fb08da033daeafc4afa&amp;vv=1600&amp;mkt=EN-US&amp;lc=1033&amp;email=abuse@macys.com" 
 "https://bargemansrest.com/jrmcm/login.php?https://login.live.com/GetSessionState.srf?response_type=code&amp;client_id=51483342-085c-4d86-bf88-cf50c7252078&amp;scope=openid profile email offline_access&amp;response_mode=form_post&amp;redirect_uri=https%3a%2f%2flogin.microsoftonline.com%2fcommon%2ffederation%2foauth2&amp;state=rQIIAeNisNLLKCkpKLbS109Myc3M0ysoyi9JTS7JzM_Tyy8tycnPz9ZLzs_Vyy9Kz0wBsYqEuAQUN61SL7LY4N-7wPjWqz9ev2YxcsbnZJalguRXMWoSY6B-anKB_gVGxheMjJuY2H2dPOO9XSNPMDUfk7vFJOhflO6ZEl7slpqSWpQI0nmBReAVC48BsxUHB5sAowSDAsMPFsZFrECnTAo1qLmuZuK0OaTi9yltYYZTrPoF2flJ3mF5xZ5ubgbZfvmu5mmRptmpzmEmxvplAZYF5VU-FaFhZb4B2VXJtkZWhhPYhCawMZ1iY9jFSbzLAQ2&amp;estsfed=1&amp;uaid=27aab22138724fb08da033daeafc4afa&amp;vaccess&amp;response_mode=form_post&amp;redirect_uri=https%3a%2f%2flogin.microsoftonline.com%2fcommon%2ffederation%2foauth2&amp;state=rQIIAeNisNLLKCkpKLbS109Myc3M0ysoyi9JTS7JzM_Tyy8tycnPz9ZLzs_Vyy9Kz0wBsYqEuAQUN61SL7LY4N-7wPjWqz9ev2YxcsbnZJalguRXMWoSY6B-anKB_gVGxheMjJuY2H2dPOO9XSNPMDUfk7vFJOhflO6ZEl7slpqSWpQI0nmBReAVC48BsxUHB5sAowSDAsMPFsZFrECnTAo1qLmuZuK0OaTi9yltYYZTrPoF2flJ3mF5xZ5ubgbZfvmu5mmRptmpzmEmxvplAZYF5VU-FaFhZb4B2VXJtkZWhhPYhCawMZ1iY9jFSbzLAQ2&amp;estsfed=1&amp;uaid=27aab22138724fb08da033daeafc4afa&amp;vv=1600&amp;mkt=EN-US&amp;lc=1033&amp;email=abuse@zurichna.com" 
@@ -744,6 +762,10 @@ http://sOsOXnzOcPIoUa7Qogte.maherstcottage.com.au/wp-content/master/mail.php?ses
 "https://secure.runescape.comgi.ml/m=weblogin/loginform.ws247 
 "https://secure.runescape.com-gi.pw/m=weblogin/loginform.ws513 
 "https://secure.runescape.comgk.ml/m=weblogin/loginform.ws247 
+"https://secure.runescape.com-jk.info/m=weblogin/loginform.ws614 
+"https://secure.runescape.com-jsh.top/m=weblogin/loginform.ws526 
+"https://secure.runescape.com-jsh.top/m=weblogin/loginform.ws785 
+"https://secure.runescape.com-jsh.top/m=weblogin/loginform.ws972 
 "https://secure.runescape.com-js.pw/m=weblogin/loginform.ws513 
 "https://secure.runescape.com-kp.pw/m=weblogin/loginform.ws493 
 "https://secure.runescape.com-lr.top/m=weblogin/a=97/loginform.ws493 
@@ -769,9 +791,11 @@ http://sOsOXnzOcPIoUa7Qogte.maherstcottage.com.au/wp-content/master/mail.php?ses
 "https://secure.runescape.com-qi.top/m=weblogin/loginform.ws493 
 "https://secure.runescape.com-ql.top/m=weblogin/loginform.ws368 
 "https://secure.runescape.com-sb.top/m=weblogin/loginform.ws713 
+"https://secure.runescape.com-sb.top/m=weblogin/loginform.ws878 
 "https://secure.runescape.com-sd.pw/m=weblogin/loginform.ws493 
 "https://secure.runescape.com-si.me/m=weblogin/loginform.ws821 
 "https://secure.runescape.com-sj.pw/m=weblogin/loginform.ws513 
+"https://secure.runescape.comsob.ml/m=forum/forums.ws247 
 "https://secure.runescape.com-sq.info/m=weblogin/loginform.ws614 
 "https://secure.runescape.com-sy.pro/m=weblogin/loginform.ws614 
 "https://secure.runescape.com-szx.top/m=weblogin/loginform.ws493 
@@ -832,6 +856,7 @@ http://sOsOXnzOcPIoUa7Qogte.maherstcottage.com.au/wp-content/master/mail.php?ses
 "https://services.runescape.com-jc.top/m=weblogin/loginform.ws268 
 "https://services.runescape.com-jh.xyz/m=weblogin/loginform.ws493 
 "https://services.runescape.com-jl.top/m=forum/forums 
+"https://services.runescape.com-jsh.top/m=weblogin/loginform.ws662 
 "https://services.runescape.com-j.us/m=forum/forums 
 "https://services.runescape.com-mds.top/m=weblogin/loginform.ws669 
 "https://services.runescape.com-nl.top/m=forum/forums 
@@ -848,12 +873,14 @@ http://sOsOXnzOcPIoUa7Qogte.maherstcottage.com.au/wp-content/master/mail.php?ses
 "https://services.runescape.com-q.us/m=weblogin/loginform.ws268 
 "https://services.runescape.com-rr.pw/m=weblogin/loginform.ws493 
 "https://services.runescape.com-rs.top/m=weblogin/login.ws 
+"https://services.runescape.com-sb.top/m=weblogin/loginform.ws486 
 "https://services.runescape.com-sb.top/m=weblogin/loginform.ws713 
 "https://services.runescape.com-sd.pw/m=weblogin/loginform.ws493 
 "https://services.runescape.com-sn.top/m=weblogin/loginform.ws327 
 "https://services.runescape.com-tg.top/m=weblogin/loginform.ws785 
 "https://services.runescape.com-tm.top/m=weblogin/a=97/loginform.ws493 
 "https://services.runescape.com-t.us/m=forum/forums 
+"https://services.runescape.com-uj.top/m=weblogin/a=97/loginform.ws493 
 "https://services.runescape.com-ul.ml/m=forum/forums 
 "https://services.runescape.com-unh.pw/m=weblogin/loginform.ws324 
 "https://services.runescape.com-u.ws/m=forum/forums 
@@ -907,10 +934,24 @@ https://telegramm.uz:443/
 "https://wonderplayschool.com/log/3yte5ntm=/signin/?country.x=&amp;locale.x=en-US 
 "https://www.apkedia.com/wp-content/languages/plugins/1/2/3/4/5/6/7/8/This directory is empty/This directory is empt/doc/index.php" 
 "https://www.copanaponto2018.com//PRODUTOd683533d66f266d524cbf68d5df0ee9cDESKTOP/?Produto=Smart%20TV%20LED%2049&amp;quot;%20Ultra%20HD%204K%20LG%2049UJ6300%20com%20Sistema%20WebOS%203.5 
+"https://www.enlivenias.com/Updata/0othjnjc=/signin/?country.x=&amp;locale.x=en-US 
+"https://www.enlivenias.com/Updata/1zjhjnze=/signin/?country.x=&amp;locale.x=en-US 
+"https://www.enlivenias.com/Updata/1zjnmmdi=/signin/?country.x=&amp;locale.x=en-US 
+"https://www.enlivenias.com/Updata/2ztbintq=/signin/?country.x=&amp;locale.x=en-US 
+"https://www.enlivenias.com/Updata/3mtk3ndy=/signin/?country.x=&amp;locale.x=en-US 
+"https://www.enlivenias.com/Updata/5nmrlztc=/signin/?country.x=&amp;locale.x=en-US 
+"https://www.enlivenias.com/Updata/jn2jjnwy=/signin/?country.x=&amp;locale.x=en-US 
+"https://www.enlivenias.com/Updata/kyjkymwu=/signin/?country.x=&amp;locale.x=en-US 
+"https://www.enlivenias.com/Updata/wm2i4mdy=/signin/?country.x=&amp;locale.x=en-US 
+"https://www.enlivenias.com/Updata/wzdkynti=/signin/?country.x=&amp;locale.x=en-US 
+"https://www.enlivenias.com/Updata/xnwi4ogm=/signin/?country.x=&amp;locale.x=en-US 
+"https://www.enlivenias.com/Updata/zmtrmnda=/signin/?country.x=&amp;locale.x=en-US 
+"https://www.enlivenias.com/Updata/zodvlnda=/signin/?country.x=&amp;locale.x=en-US 
 https://WWW.FABSURPLUS.COM/ 
 "https://www.glassdoor.ca/Jobs/Google-Call-for-Support-1833-337-0111-pof-customer-service-phone-number-pof-help-center-phone-number-pof-telephone-number-pof-help-center-number-pof-help-number-pof-customer-service-number-usa-pof-help-phone-number-pof-contact-number-usa-phone-number-for-pof-customer-service-pof-technical-support-pof-customer-support-email-pof-support-email-contact-pof-customer-support576gh-Job-Jobs-EI_IE9079.0 
 "https://www.glassdoor.ca/Jobs/Plentyoffish-Media-Contact1-888-441-0333-POF-Customer-Service-Number-POF-Contact-Number-POF-Phone-Number-POF-Tech-Support-Number-POF-Tech-Support-Phone-Number-POF-Technical-Support-Telephone-Number-POF-Telephone-Number-POF-Tv-Customer-Service-POF-Tv-Customer-Service-Number-POF-Tv-Customer-Support-POF-Tv-Technical-Support-Support-POF-POF-Customer-Service-Phone-Number-POF-Help-Desk-Number-POF-Tech-Support-Contact-Number-POF-Customer-Support-Phone-Number-POF-Technical-Support-POF-Technical-Support-Number-POF-Customer-Service-Jobs-About-Advertising-Gifts-Business-Submit-Your-Dating-Blog-Jobs-Investor-Press-Privacy-Terms-Ad-Preferences-POF-customer-care-service-unitedsatate00000892-Jobs-Jobs-EI_IE683584.0 
 "https://www.google.co.uk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwioqpfl4oPKAhWHPxQKHYGXAjkQFggfMAA&url=httpsAFFappleid.apple.comF&usg=AFQjCNF7841Jq5PLrYJwYDN8RkcZjuNVww&sig2=gKBRh04c9wVr4EOc4FARAw&bvm=bv.110151844 
+"https://www.lojaponto.com.br/PRODUTOdcb635162a69e36e450c25b6feb50cceDESKTOP/?Produto=Smart%20TV%20LED%2048&amp;quot;%20Full%20HD%20Sony%20BRAVIA%20KDL-48W655D%20com%20X-Reality%20Pro 
 "https://www.magnavrx.tk/ssh/2ota0mte=/signin/?country.x=&amp;locale.x=en-US 
 https://www.Rbnva.com 
 "https://www.saldaodeferiasponto.com//PROMOCAO/PRODUTOc9f186c7309504ee9871882f9a73ba6eDESKTOP/?Produto=Smart%20TV%20LED%2043%22%20Ultra%20HD%204K%20LG%2043UJ6300%20com%20Sistema%20WebOS%203.5 
@@ -1028,6 +1069,7 @@ http://WWW.global-print.com.ua/plugins/system/lega/google/Index.html
 "http://www.grupomodamil.com.br/blog/wp-content/plugins/ark/nexyi/ce2cd87ac8874e7f818e35fb05b9da27/?cmd=_identifier_Demarrer_ID=678022690117%20_TIme:Mon 
 http://www.HomeLoans411.com/?2EA3yduT7X=abuse@servicioschocolates.com 
 "http://www.interpharmserv.com/wp-content/themes/includes/functions/br/login/portal.cliente.jpg/identificacao.1jsf.php?12 
+"http://www.interpharmserv.com/wp-content/themes/includes/functions/br/login/portal.cliente.jpg/identificacao.1jsf.php?12 
 "http://www.jualumni-bd.org/cina/9614c158a254dc516ef8c6c7236bcd55/?.verify?service=mail&amp;base64 
 "http://www.jualumni-bd.org/cina/ce03d49216b72b0d4ee238d3a6f9a542/?.verify?service=mail&amp;base64 
 "http://www.jualumni-bd.org/cina/cea5f68bbef882cbac3567321165a5bf/?login=&amp;.verify?service=mail&amp;data:text/html;charset=utf-8;base64 
@@ -1039,6 +1081,7 @@ http://www.HomeLoans411.com/?2EA3yduT7X=abuse@servicioschocolates.com
 http://www.netflix.com.actens.strts.Acteonns.localles.en.surymarketing.online/paynout 
 "http://www.phoenix-gmbh-berlin.de/ramos/lima/desktop/thmpv.php?18 
 "http://www.phokhobazan.com/ 2 0 1 8-0 7 - 9 2 2 0 0 7: 2 6: 99 019.php/?email=abuse@gen-i.co.nz" 
+"http://www.pont0friopromocao24hs.cf//produto.php?Produto=Smart%20TV%20LED%2043%EF%BF%BD%20Full%20HD%20Samsung%2043J5200%20com%20ConnectShare%20Movie 
 "http://www.protecao-diaria.cf/app/done0.php?id=10 
 "http://www.purorder.pe.hu/purchas/datatexthtml 
 "http://www.samfelag.is/fb2/. 
@@ -1084,6 +1127,10 @@ http://ZFsIEBLmrnB4PpfGthLv.littlematchagirl.com.au/back/access.php?session=eb09
 http://ZFsIEBLmrnB4PpfGthLv.littlematchagirl.com.au/back/mail.php?session=4ee065ed2db8c124cd175c731c4c8e814ee065ed2db8c124cd175c731c4c8e81 
 http://ZFsIEBLmrnB4PpfGthLv.littlematchagirl.com.au/back/mail.php?session=9dd8732e1354f129fd8ed4ef2d4b8a149dd8732e1354f129fd8ed4ef2d4b8a14 
 http://ziNbra.890m.com/verify.html 
+it/Agentia/Agentia/agentia/agentiadelentrate/agentia/italia/banks/refund/ubibanca/ubibanca/ 
+JHMGNHFG/Best_Wells/Best_Wells/en/MEEE/long/online-account/security/auth/1/inner_page.html?af01809b7ca97b3e5a5e056f9eef6c43-af01809b7ca97b3e5a5e056f9eef6c43-af01809b7ca97b3e5a5e056f9eef6c43-af01809b7ca97b3e5a5e056f9eef6c43-af01809b7ca97b3e5a5e056f9eef6c43-af01809b7ca97b3e5a5e056f9eef6c43-af01809b7ca97b3e5a5e056f9eef6c43 
+JHMGNHFG/Best_Wells/Best_Wells/en/MEEE/long/online-account/security/auth/1/login.php 
+Jul 
 Jun 
 le/update&& 
 /login.php 
@@ -1092,11 +1139,18 @@ ormation-update.php?cmd=https://secure.bankofamerica.com/account/profile/update&
 PGh0bWw%20DQo8c3R5bGU%20IGJvZHkgeyBtYXJnaW46IDA7IG92ZXJmbG93OiBoaWRkZW47IH0gPC9zdHlsZT4NCiAgPGlmcmFt 
 PGh0bWw%20DQo8c3R5bGU%20IGJvZHkgeyBtYXJnaW46IDA7IG92ZXJmbG93OiBoaWRkZW47IH0gPC9zdHlsZT4NCiAgPGlmcmFt=&amp;charset=utf-8&amp;data:text/html=&amp;login= 
 PGh0bWw%20DQo8c3R5bGU%20IGJvZHkgeyBtYXJnaW46IDA7IG92ZXJmbG93OiBoaWRkZW47IH0gPC9zdHlsZT4NCiAgPGlmcmFt=&charset=utf-8&data:text/html=&login= 
+PGh0bWw%20DQo8c3R5bGU%20IGJvZHkgeyBtYXJnaW46IDA7IG92ZXJmbG93OiBoaWRkZW47IH0gPC9zdHlsZT4NCiAgPGlmcmFt=&charset=utf-8&data:text/html=&login=beier@hzbeier.cn 
+PGh0bWw%20DQo8c3R5bGU%20IGJvZHkgeyBtYXJnaW46IDA7IG92ZXJmbG93OiBoaWRkZW47IH0gPC9zdHlsZT4NCiAgPGlmcmFt=&charset=utf-8&data:text/html=&login=bxqj@bxqj.com 
 PGh0bWw%20DQo8c3R5bGU%20IGJvZHkgeyBtYXJnaW46IDA7IG92ZXJmbG93OiBoaWRkZW47IH0gPC9zdHlsZT4NCiAgPGlmcmFt=&charset=utf-8&data:text/html=&login=halldis%40hongrundagd.com 
+PGh0bWw%20DQo8c3R5bGU%20IGJvZHkgeyBtYXJnaW46IDA7IG92ZXJmbG93OiBoaWRkZW47IH0gPC9zdHlsZT4NCiAgPGlmcmFt=&charset=utf-8&data:text/html=&login=info@sanjin.com 
+PGh0bWw%20DQo8c3R5bGU%20IGJvZHkgeyBtYXJnaW46IDA7IG92ZXJmbG93OiBoaWRkZW47IH0gPC9zdHlsZT4NCiAgPGlmcmFt=&charset=utf-8&data:text/html=&login=yhpan@fayero.com 
 PGh0bWw%20DQo8c3R5bGU%20IGJvZHkgeyBtYXJnaW46IDA7IG92ZXJmbG93OiBoaWRkZW47IH0gPC9zdHlsZT4NCiAgPGlmcmFt=&charset=utf-8&data:text/html=&userid=francois.slabbert@recruitment4africa.com 
 PGh0bWw+DQo8c3R5bGU+IGJvZHkgeyBtYXJnaW46IDA7IG92ZXJmbG93OiBoaWRkZW47IH0gPC9zdHlsZT4NCiAgPGlmcmFt 
 phish_id,url,phish_detail_url,submission_time,verified,verification_time,online,target 
+/PPppp/PP/?platform=hootsuite 
+/PPppp/PP/PP/?7e0daea642483e6f3290286f2fa6114e-7e0daea642483e6f3290286f2fa6114e-7e0daea642483e6f3290286f2fa6114e7e0daea642483e6f3290286f2fa6114e7e0daea642483e6f3290286f2fa6114e7e0daea642483e6f3290286f2fa6114e7e0daea642483e6f3290286f2fa6114e7e0daea642483e6f3290286f2fa6114e 
 .rowq4qvncrw8mvu6oe5.u8rn 
+/updateY!.html 
 url 
 ./webmail/webadminpage.htm 
 /Yah/T/Y1.html 
