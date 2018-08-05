@@ -1,5 +1,8 @@
 {
     "/home/travis/build/mitchellkrogza/Phishing-URL-Testing-Database-of-Link-Statuses/input-source/ALL-feeds.list": {
-        "1533478659": []
+        "1533478659": [
+            ""
+        ],
+        "to_test": []
     }
 }
