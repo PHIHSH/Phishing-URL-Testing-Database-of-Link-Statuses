@@ -1,8 +1,8 @@
 {
     "/home/travis/build/mitchellkrogza/Phishing-URL-Testing-Database-of-Link-Statuses/input-source/ALL-feeds.list": {
-        "down": 1246,
-        "invalid": 39,
-        "tested": 1750,
-        "up": 465
+        "down": 1470,
+        "invalid": 40,
+        "tested": 2170,
+        "up": 660
     }
 }
