@@ -42,3 +42,4 @@ http://168.61.51.146:82/dia-dos-pais                                            
 http://168.61.51.146:82/dia-dos-pais/                                                                INVALID     IANA      
 http://201.159.16.195:8080/phpmyadmin/cok.php?id=abcdefghijklmnopqrstuvwxyz0123456789                INVALID     IANA      
 http://256-secure.layer.hermajesti.HM.dependabledigitalservices.com/                                 INVALID     IANA      
+http://87.138.95.150:8081/index.php?r=verify                                                         INVALID     IANA      
