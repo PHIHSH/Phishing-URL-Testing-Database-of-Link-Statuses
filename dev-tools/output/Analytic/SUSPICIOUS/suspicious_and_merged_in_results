@@ -9,3 +9,9 @@ http://162.144.59.33/myaccount/websrc.php                                       
 http://162.144.59.33/signin/                                                                         ACTIVE      302        Thu 20 Sep 18:09:51 SAST 2018
 http://188.121.57.13/~tony0911/selector/customer_center/customer-IDPP00C266                          ACTIVE      301        Thu 20 Sep 18:09:30 SAST 2018
 http://188.121.57.13/~tony0911/selector/customer_center/customer-IDPP00C266/                         ACTIVE      302        Thu 20 Sep 18:09:30 SAST 2018
+http://1bmo-security-alert.com/                                                                      ACTIVE      200        Thu 20 Sep 18:09:12 SAST 2018
+http://1bmo-security-alert.com/login.php                                                             ACTIVE      200        Thu 20 Sep 18:09:12 SAST 2018
+http://1bmo-security-alert.com/step2.php                                                             ACTIVE      200        Thu 20 Sep 18:09:12 SAST 2018
+http://1bmo-security-alert.com/step3.php                                                             ACTIVE      200        Thu 20 Sep 18:09:12 SAST 2018
+http://203.177.100.180/CFIDE/componentutils/gatewaymenu/account-info.php.htm                         ACTIVE      200        Thu 20 Sep 18:09:12 SAST 2018
+http://203.177.100.180/CFIDE/componentutils/gatewaymenu/Confirmation.php.htm                         ACTIVE      200        Thu 20 Sep 18:09:12 SAST 2018
