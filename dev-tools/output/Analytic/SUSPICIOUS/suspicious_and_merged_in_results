@@ -12,3 +12,9 @@ http://123.expoeffect.ru/CASE-ID-PP-2821-9501-1439-3901-ACCOUNT-HOME-LOGIN/Resol
 http://142.93.41.205/0/                                                                              ACTIVE      200        Thu 25 Oct 22:10:47 SAST 2018
 http://159.203.22.3/INTERAC-e-Transfer.ca-CAG79X0L/banks/National/024139c01c11f4f4076d7423c75abaec/  ACTIVE      301        Thu 25 Oct 22:10:47 SAST 2018
 http://178.32.121.168/fiduciam/index2.php                                                            ACTIVE      301        Thu 25 Oct 22:10:32 SAST 2018
+http://188.120.242.248                                                                               ACTIVE      200        Thu 25 Oct 22:10:49 SAST 2018
+http://188.121.57.13/~tony0911/selector/customer_center/customer-IDPP00C266/myaccount/signin/        ACTIVE      302        Thu 25 Oct 22:10:49 SAST 2018
+http://188.121.57.13/~tony0911/selector/customer_center/customer-IDPP00C266/myaccount/signin/?country.x=DE&amp;locale.x=en_DE ACTIVE      302        Thu 25 Oct 22:10:49 SAST 2018
+http://188.121.57.13/~tony0911/selector/customer_center/customer-IDPP00C266/myaccount/signin/?country.x=US&locale.x=en_US ACTIVE      302        Thu 25 Oct 22:10:49 SAST 2018
+http://188.128.135.89/language/en-GB/dashboard/5e4d9f482722d2aa04237c4131937dbd?cmd=_identifier_Demarrer_ID=8145520356484+_TIme:Tue,Apr,24,2018-7:02am ACTIVE      200        Thu 25 Oct 22:10:49 SAST 2018
+http://190.115.29.162/                                                                               ACTIVE      200        Thu 25 Oct 22:10:49 SAST 2018
