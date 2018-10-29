@@ -6,12 +6,12 @@ A Testing Repository for Phishing URLS, Links, Domains, Web Sites and Threats.
 
 
 _______________
-#### Version: V0.1.5131
-#### ACTIVE Phishing URLs (Tested): [61617](https://raw.githubusercontent.com/mitchellkrogza/Phishing-URL-Testing-Database-of-Link-Statuses/master/phishing-urls-ACTIVE.txt) (31 %)
-#### INACTIVE Phishing URLs (Tested): [124345](https://raw.githubusercontent.com/mitchellkrogza/Phishing-URL-Testing-Database-of-Link-Statuses/master/phishing-urls-INACTIVE.txt) (62 %)
-#### INVALID Phishing URLs (Tested): [16037](https://raw.githubusercontent.com/mitchellkrogza/Phishing-URL-Testing-Database-of-Link-Statuses/master/phishing-urls-INVALID.txt) (8 %)
+#### Version: V0.1.5363
+#### ACTIVE Phishing URLs (Tested): [45142](https://raw.githubusercontent.com/mitchellkrogza/Phishing-URL-Testing-Database-of-Link-Statuses/master/phishing-urls-ACTIVE.txt) (28 %)
+#### INACTIVE Phishing URLs (Tested): [102534](https://raw.githubusercontent.com/mitchellkrogza/Phishing-URL-Testing-Database-of-Link-Statuses/master/phishing-urls-INACTIVE.txt) (63 %)
+#### INVALID Phishing URLs (Tested): [15904](https://raw.githubusercontent.com/mitchellkrogza/Phishing-URL-Testing-Database-of-Link-Statuses/master/phishing-urls-INVALID.txt) (10 %)
 *****************************
-#### Total Phishing URL's Captured: [226509](https://raw.githubusercontent.com/mitchellkrogza/Phishing-URL-Testing-Database-of-Link-Statuses/master/input-source/ALL-feeds.list) :exclamation: Large File
+#### Total Phishing URL's Captured: [230341](https://raw.githubusercontent.com/mitchellkrogza/Phishing-URL-Testing-Database-of-Link-Statuses/master/input-source/ALL-feeds.list) :exclamation: Large File
 ____________________
 
 
