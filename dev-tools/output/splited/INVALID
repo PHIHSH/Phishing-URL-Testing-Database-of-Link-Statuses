@@ -9046,3 +9046,4 @@ https://gastronomieservice.be:443/db/                                           
 "https://gertai.com/ia/i-api/IRS/login                                                               INVALID     SYNTAX    
 https://goldenv.by:443/my-account/customer_center/customer-IDPP00C515/myaccount/signin/?country.x=US&locale.x=en_US INVALID     SYNTAX    
 "https://heloisaftimamachado.com/login/?cart=43                                                      INVALID     SYNTAX    
+"http://showerama-ido.ru/system/ap/2fhyjk=/signin/?country.x=&locale.x=en                            INVALID     SYNTAX    
