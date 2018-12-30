@@ -10968,3 +10968,4 @@ http://201.159.16.195:8080/phpmyadmin/cok.php?id=abcdefghijklmnopqrstuvwxyz01234
 http://212.124.118.210:8090/voudeuber/                                                               INVALID     SYNTAX    
 http://212.129.24.74:8080/mps/                                                                       INVALID     SYNTAX    
 http://212.129.24.74:8080/unicc/                                                                     INVALID     SYNTAX    
+"http://35.198.1.221/cb/Casas%20Bahia_%20Produtos%20para%20sua%20casa                                INVALID     SYNTAX    
