@@ -4227,3 +4227,7 @@ http://201.159.16.195:8080/phpmyadmin/cok.php?id=abcdefghijklmnopqrstuvwxyz01234
 "http://217.61.6.192/Mutuel-de-Bretagne/cf54484c730bb3961c0888915f63f4c7/?cmd=_identifier_Demarrer_ID=1742681195028%20_TIme:Sat INVALID     SYNTAX    
 "http://217.61.6.192/Mutuel-de-Bretagne/cf54484c730bb3961c0888915f63f4c7/?cmd=_identifier_Demarrer_ID=1742681195028+_TIme:Sat INVALID     SYNTAX    
 "http://217.61.6.192/Mutuel-de-Bretagne/d06d5f5807ddd70f742b6376b2b5ea84/?cmd=_identifier_Demarrer_ID=2782706469297%20_TIme:Sat INVALID     SYNTAX    
+http://256-secure.layer.hermajesti.HM.dependabledigitalservices.com/                                 INVALID     SYNTAX    
+"http://2sqpa.com/2/1/c439475541353b85ac0408f7c460dab4/?login=&amp;.verify?service=mail&amp;data;:text/html;charset=utf-8;base64 INVALID     SYNTAX    
+"http://2sqpa.com/2/1/c439475541353b85ac0408f7c460dab4/?login=&.verify?service=mail&data:text/html;charset=utf-8;base64 INVALID     SYNTAX    
+"http://35.198.1.221/cb/Casas%20Bahia_%20Produtos%20para%20sua%20casa                                INVALID     SYNTAX    
