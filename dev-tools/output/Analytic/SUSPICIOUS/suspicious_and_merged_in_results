@@ -141,3 +141,17 @@ http://447b55acdd8a3d7a7.kithbinder.com/wf/safe/ch/accesscode.php?VerificationAs
 http://447b55acdd8a3d7a7.kithbinder.com/wf/safe/ch/cipform.php?VerificationAssist                    ACTIVE      200        Sat 04 May 01:05:50 SAST 2019
 http://447b55acdd8a3d7a7.kithbinder.com/wf/safe/ch/indez.php                                         ACTIVE      200        Sat 04 May 01:05:50 SAST 2019
 http://447b55acdd8a3d7a7.kithbinder.com/wf/safe/ch/login.php?VerificationAssist                      ACTIVE      200        Sat 04 May 01:05:50 SAST 2019
+http://46.101.204.149/banks/ATB/                                                                     ACTIVE      301        Sat 04 May 01:05:38 SAST 2019
+http://46.101.204.149/banks/ATB/confirm.html                                                         ACTIVE      301        Sat 04 May 01:05:38 SAST 2019
+http://46.101.204.149/banks/ATB/last.html                                                            ACTIVE      301        Sat 04 May 01:05:38 SAST 2019
+http://46.101.204.149/banks/CIBC/                                                                    ACTIVE      301        Sat 04 May 01:05:38 SAST 2019
+http://46.101.204.149/banks/CIBC/ebm-mobile-app/index.html                                           ACTIVE      301        Sat 04 May 01:05:38 SAST 2019
+http://46.101.44.131/banks/ATB/                                                                      ACTIVE      301        Sat 04 May 01:05:38 SAST 2019
+http://46.101.44.131/banks/ATB/confirm.html                                                          ACTIVE      301        Sat 04 May 01:05:38 SAST 2019
+http://46.101.44.131/banks/ATB/last.html                                                             ACTIVE      301        Sat 04 May 01:05:38 SAST 2019
+http://46.101.44.131/banks/National/72f1c1d35da9d5f14c87b5836a0119ed/                                ACTIVE      301        Sat 04 May 01:05:38 SAST 2019
+http://46.101.44.131/banks/Simplii/                                                                  ACTIVE      301        Sat 04 May 01:05:38 SAST 2019
+http://46.105.156.223/es/?ids=081620182                                                              ACTIVE      302        Sat 04 May 01:05:38 SAST 2019
+http://47ml8jyvdr0vf7ahhtfk.bradul.creatory.org/goodgame/login.php?session=8d3a78489f6c746bbc5f66f7bce354f28d3a78489f6c746bbc5f66f7bce354f2 ACTIVE      200        Sat 04 May 01:05:38 SAST 2019
+http://47ml8jyvdr0vf7ahhtfk.bradul.creatory.org/goodgame/mail.php?session=e8d1647ae3d47f40f4b2f200fcdce732e8d1647ae3d47f40f4b2f200fcdce732 ACTIVE      200        Sat 04 May 01:05:38 SAST 2019
+http://47ml8jyvdr0vf7ahhtfk.bradul.creatory.org/goodgame/online.php?session=534e7ac8c462c64ba52b50e3a80d7efe534e7ac8c462c64ba52b50e3a80d7efe ACTIVE      200        Sat 04 May 01:05:38 SAST 2019
