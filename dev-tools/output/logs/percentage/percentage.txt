@@ -4,5 +4,5 @@
 Status      Percentage   Numbers     
 ----------- ------------ ------------
 ACTIVE      0%           223         
-INACTIVE    53%          45526       
+INACTIVE    54%          45685       
 INVALID     45%          38691       
