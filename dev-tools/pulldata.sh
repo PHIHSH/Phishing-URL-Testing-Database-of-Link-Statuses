@@ -28,7 +28,7 @@ PrepareTravis () {
 # **********************************************
 
 fetch () {
-    sudo wget https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/input-source/ALL-feeds.list -O ${inputA}
+    sudo wget https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/input-source/ALL-feeds-URL.list -O ${inputA}
 }
 
 # *************************************************
