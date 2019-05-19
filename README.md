@@ -1,26 +1,27 @@
 <img src="https://github.com/mitchellkrogza/Phishing-URL-Testing-Database-of-Link-Statuses/blob/master/dev-tools/phishing-logo.jpg" alt="Phishing Domain URL Status Testing Repo"/>
 
-# Phishing Domain URL Testing Database To Test Statuses of Active Phishing Links on the Internet 
+# Phishing Domain URL Testing Database  
 
-A Testing Repository for Phishing URLS, Links, Domains, Web Sites and Threats.
+A testing repository to test the statuses of Phishing Links on the Internet. Data is collected and collated from multiple sources and we test if these phishing links are still in an Active, Inactive or Invalid state.
 
+This repository is part of the [Phishing Domain Database](https://github.com/mitchellkrogza/Phishing.Database)
 
 _______________
 #### Version: V0.1.10832
 #### ACTIVE Phishing URLs (Tested): [1](https://raw.githubusercontent.com/mitchellkrogza/Phishing-URL-Testing-Database-of-Link-Statuses/master/phishing-urls-ACTIVE.txt) (0 %)
 #### INACTIVE Phishing URLs (Tested): [1](https://raw.githubusercontent.com/mitchellkrogza/Phishing-URL-Testing-Database-of-Link-Statuses/master/phishing-urls-INACTIVE.txt) (0 %)
 #### INVALID Phishing URLs (Tested): [8667](https://raw.githubusercontent.com/mitchellkrogza/Phishing-URL-Testing-Database-of-Link-Statuses/master/phishing-urls-INVALID.txt) (100 %)
-*****************************\#### ACTIVE Phishing URLs (In Testing): 
-[1](https://raw.githubusercontent.com/mitchellkrogza/Phishing-URL-Testing-Database-of-Link-Statuses/master/phishing-urls-ACTIVE-in-testing.txt) (0 %)#### INACTIVE Phishing URLs (In Testing): 
-[1](https://raw.githubusercontent.com/mitchellkrogza/Phishing-URL-Testing-Database-of-Link-Statuses/master/phishing-urls-INACTIVE-in-testing.txt) (0 %)#### INVALID Phishing URLs (In Testing): 
-[8667](https://raw.githubusercontent.com/mitchellkrogza/Phishing-URL-Testing-Database-of-Link-Statuses/master/phishing-urls-INVALID-in-testing.txt) (100 %)*****************************
+*****************************
+#### ACTIVE Phishing URLs (In Testing): [1](https://raw.githubusercontent.com/mitchellkrogza/Phishing-URL-Testing-Database-of-Link-Statuses/master/phishing-urls-ACTIVE-in-testing.txt) (0 %)
+#### INACTIVE Phishing URLs (In Testing): [1](https://raw.githubusercontent.com/mitchellkrogza/Phishing-URL-Testing-Database-of-Link-Statuses/master/phishing-urls-INACTIVE-in-testing.txt) (0 %)
+#### INVALID Phishing URLs (In Testing): [8667](https://raw.githubusercontent.com/mitchellkrogza/Phishing-URL-Testing-Database-of-Link-Statuses/master/phishing-urls-INVALID-in-testing.txt) (100 %)*****************************
 #### Total Phishing URL's Captured: [134175](https://raw.githubusercontent.com/mitchellkrogza/Phishing-URL-Testing-Database-of-Link-Statuses/master/input-source/ALL-feeds-URLS.lst)
 ____________________
 
 
 ## Purpose of this repo?
 
-This is just one of a number of extensive projects dealing with testing the status of harmful domain names and web sites. We test sources of Phishing attacks to keep track of how many of the domain names used in Phishing attacks are still active and functioning. We sort all domains from all sources into one list, removing any duplicates so that we have a clean list of domains to work with.
+This is just one of a number of extensive projects dealing with testing the status of harmful phishing sites. We test sources of Phishing attacks to keep track of how many of the links used in Phishing attacks are still active and functioning. We sort all domains from all sources into one list, removing any duplicates so that we have a clean list of links to work with.
 
 ************************************************
 ## How do you test?
