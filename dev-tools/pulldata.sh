@@ -7,7 +7,7 @@
 # Input and Output File Variables
 # *******************************
 
-inputA=${TRAVIS_BUILD_DIR}/input-source/ALL-feeds.list
+inputA=${TRAVIS_BUILD_DIR}/input-source/ALL-feeds-URL.list
 tmp=${TRAVIS_BUILD_DIR}/input-source/tmp.list
 
 # *********************************************
@@ -29,7 +29,8 @@ PrepareTravis () {
 # **********************************************
 
 fetch () {
-    sudo wget https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/input-source/ALL-feeds-URL.list -O ${inputA}
+	sudo truncate -s 0 ${inputA}
+	sudo wget https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/input-source/ALL-feeds-URL.list -O ${inputA}
 }
 
 # *************************************************
