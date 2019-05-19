@@ -7,9 +7,21 @@
 # Copy tested files into root of repo
 # ***********************************
 
-cat ${TRAVIS_BUILD_DIR}/dev-tools/output/domains/ACTIVE/list | grep -v "^$" | grep -v "^#" > ${TRAVIS_BUILD_DIR}/phishing-urls-ACTIVE.txt
-cat ${TRAVIS_BUILD_DIR}/dev-tools/output/domains/INACTIVE/list | grep -v "^$" | grep -v "^#" > ${TRAVIS_BUILD_DIR}/phishing-urls-INACTIVE.txt
-cat ${TRAVIS_BUILD_DIR}/dev-tools/output/domains/INVALID/list | grep -v "^$" | grep -v "^#" > ${TRAVIS_BUILD_DIR}/phishing-urls-INVALID.txt
+statuses="ACTIVE INACTIVE INVALID"
+
+for status in $(echo ${statuses})
+do
+    statusFile="${TRAVIS_BUILD_DIR}/dev-tools/output/domains/${status}/list"
+
+    if [[ -f ${statusFile} ]]
+    then
+        cat ${statusFile} | grep -v "^$" | grep -v "^#" > ${TRAVIS_BUILD_DIR}/phishing-urls-${status}-in-testing.txt
+        cat ${statusFile} | grep -v "^$" | grep -v "^#" > ${TRAVIS_BUILD_DIR}/phishing-urls-${status}.txt
+    else
+        echo "" > ${TRAVIS_BUILD_DIR}/phishing-urls-${status}-in-testing.txt
+        echo "" > ${TRAVIS_BUILD_DIR}/phishing-urls-${status}.txt
+    fi
+done
 
 # ******************
 # Modify Readme File

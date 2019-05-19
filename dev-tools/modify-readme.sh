@@ -9,6 +9,24 @@ version=V0.1.${TRAVIS_BUILD_NUMBER}
 versiondate="$(date)"
 startmarker="_______________"
 endmarker="____________________"
+
+statuses="ACTIVE INACTIVE INVALID"
+
+for status in $(echo ${statuses})
+do
+    statusFile="${TRAVIS_BUILD_DIR}/dev-tools/output/domains/${status}/list"
+
+    if [[ -f ${statusFile} ]]
+    then
+        cat ${statusFile} | grep -v "^$" | grep -v "^#" > ${TRAVIS_BUILD_DIR}/phishing-urls-${status}.txt
+    else
+        echo "" > ${TRAVIS_BUILD_DIR}/phishing-urls-${status}.txt
+    fi
+done
+
+
+
+
 totalexploits=$(wc -l < ${TRAVIS_BUILD_DIR}/input-source/ALL-feeds-URLS.lst)
 activesites=$(wc -l < ${TRAVIS_BUILD_DIR}/phishing-urls-ACTIVE.txt)
 inactivesites=$(wc -l < ${TRAVIS_BUILD_DIR}/phishing-urls-INACTIVE.txt)
