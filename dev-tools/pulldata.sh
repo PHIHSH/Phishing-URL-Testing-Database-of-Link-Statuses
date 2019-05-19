@@ -29,7 +29,6 @@ PrepareTravis () {
 # **********************************************
 
 fetch () {
-	sudo truncate -s 0 ${inputA}
 	sudo wget -q https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/input-source/ALL-feeds-URLS.lst -O ${inputA}
 }
 
@@ -40,8 +39,10 @@ fetch () {
 initiate () {
 
     # Prepare Feed
-    sort -u ${inputA} -o ${inputA}
-    grep '[^[:blank:]]' < ${inputA} > ${tmp}
+    #sort -u ${inputA} -o ${inputA}
+    #grep '[^[:blank:]]' < ${inputA} > ${tmp}
+    #sudo mv ${tmp} ${inputA}
+    cat ${inputA} | sed 's/^[ \t]*//;s/[ \t]*$//' > ${tmp}
     sudo mv ${tmp} ${inputA}
 }
 
