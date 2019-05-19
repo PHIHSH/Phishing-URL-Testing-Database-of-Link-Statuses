@@ -34,7 +34,16 @@ RunFunceble () {
 
 }
 
-RunFunceble
+#RunFunceble
+
+
+# DEBUGGING COMMITS - Just Disable RunFunceble Function and Enable DebugCommit function
+DebugCommit () {
+    bash ${TRAVIS_BUILD_DIR}/dev-tools/modify-readme.sh
+    bash ${TRAVIS_BUILD_DIR}/dev-tools/debug-commit.sh
+}
+
+DebugCommit
 
 # **********************
 # Exit With Error Number
