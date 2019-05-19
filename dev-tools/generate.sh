@@ -3,7 +3,7 @@
 # REPO: https://github.com/mitchellkrogza/Phishing.Database
 # Copyright Mitchell Krog - mitchellkrog@gmail.com
 
-input=${TRAVIS_BUILD_DIR}/input-source/ALL-feeds.list
+input=${TRAVIS_BUILD_DIR}/input-source/ALL-feeds-URL.list
 pyfuncebleConfigurationFileLocation=${TRAVIS_BUILD_DIR}/dev-tools/.PyFunceble.yaml
 pyfuncebleProductionConfigurationFileLocation=${TRAVIS_BUILD_DIR}/dev-tools/.PyFunceble_production.yaml
 
