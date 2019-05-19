@@ -30,7 +30,7 @@ PrepareTravis () {
 
 fetch () {
 	sudo truncate -s 0 ${inputA}
-	sudo wget https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/input-source/ALL-feeds-URLS.lst -O ${inputA}
+	sudo wget -q https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/input-source/ALL-feeds-URLS.lst -O ${inputA}
 }
 
 # *************************************************
