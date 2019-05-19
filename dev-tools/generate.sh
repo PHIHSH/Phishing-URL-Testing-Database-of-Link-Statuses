@@ -33,8 +33,7 @@ RunFunceble () {
     PyFunceble --travis -dbr 5 --multiprocess --processes 60 --dns 1.1.1.1 1.0.0.1 -ex --plain --cmd-before-end "bash ${TRAVIS_BUILD_DIR}/dev-tools/commit.sh" --autosave-minutes 5 --commit-autosave-message "V0.1.${TRAVIS_BUILD_NUMBER} [PyFunceble]" --commit-results-message "V0.1.${TRAVIS_BUILD_NUMBER}" --url-file ${input}
 
 }
-
-#RunFunceble
+RunFunceble
 
 
 # DEBUGGING COMMITS - Just Disable RunFunceble Function and Enable DebugCommit function
@@ -43,7 +42,7 @@ DebugCommit () {
     bash ${TRAVIS_BUILD_DIR}/dev-tools/debug-commit.sh
 }
 
-DebugCommit
+#DebugCommit
 
 # **********************
 # Exit With Error Number
