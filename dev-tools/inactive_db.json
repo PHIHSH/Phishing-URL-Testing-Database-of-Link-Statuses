@@ -6075,7 +6075,13 @@
             "http://casace.org/profiles/en",
             "http://casace.org/profiles/en/1/info.html",
             "http://casace.org/profiles/en/1/details.html?template=Initiate&amp;valid=true&amp;session=6361736163652e6f7267",
-            "http://casace.org/profiles/en/1/details.html?template=Initiate&valid=true&session=6361736163652e6f7267"
+            "http://casace.org/profiles/en/1/details.html?template=Initiate&valid=true&session=6361736163652e6f7267",
+            "http://144.208.127.81/0fala1/",
+            "http://144.208.127.81/0office1/",
+            "http://advert-verify-update-recovery-support-notify.ga/security.htm",
+            "http://advert-verify-update-recovery-support-notify.cf/security.htm",
+            "http://advert-verify-update-recovery-support-notify.ml/security.htm",
+            "http://advert-verify-update-recovery-support-notify.gq/security.htm"
         ],
         "to_test": []
     }
