@@ -21,7 +21,6 @@ PrepareTravis () {
     git config --global user.name "${GIT_NAME}"
     git config --global push.default simple
     git checkout "${GIT_BRANCH}"
-    git lfs uninstall
 }
 
 # **********************************************
@@ -39,9 +38,6 @@ fetch () {
 initiate () {
 
     # Prepare Feed
-    #sort -u ${inputA} -o ${inputA}
-    #grep '[^[:blank:]]' < ${inputA} > ${tmp}
-    #sudo mv ${tmp} ${inputA}
     cat ${inputA} | sed 's/^[ \t]*//;s/[ \t]*$//' > ${tmp}
     sudo mv ${tmp} ${inputA}
 }
