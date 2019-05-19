@@ -1,6 +1,6 @@
-<img src="https://github.com/mitchellkrogza/Phishing-URL-Testing-Database-of-Link-Statuses/blob/master/dev-tools/phishing-logo.jpg" alt="Phishing Domain URL Status Testing Repo"/>
+<img src="https://github.com/mitchellkrogza/Phishing-URL-Testing-Database-of-Link-Statuses/blob/master/dev-tools/phishing-logo.jpg" alt="Phishing Links & Domains Status Testing Repo"/>
 
-# Phishing Domain URL Testing Database  
+# Phishing Links Testing Database  
 
 A testing repository to test the statuses of Phishing Links on the Internet. Data is collected and collated from multiple sources and we test if these phishing links are still in an Active, Inactive or Invalid state.
 
