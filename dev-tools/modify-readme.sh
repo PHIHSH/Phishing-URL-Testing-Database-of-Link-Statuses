@@ -9,7 +9,7 @@ version=V0.1.${TRAVIS_BUILD_NUMBER}
 versiondate="$(date)"
 startmarker="_______________"
 endmarker="____________________"
-totalexploits=$(wc -l < ${TRAVIS_BUILD_DIR}/input-source/ALL-feeds-URL.list)
+totalexploits=$(wc -l < ${TRAVIS_BUILD_DIR}/input-source/ALL-feeds-URLS.lst)
 activesites=$(wc -l < ${TRAVIS_BUILD_DIR}/phishing-urls-ACTIVE.txt)
 inactivesites=$(wc -l < ${TRAVIS_BUILD_DIR}/phishing-urls-INACTIVE.txt)
 invalidsites=$(wc -l < ${TRAVIS_BUILD_DIR}/phishing-urls-INVALID.txt)
@@ -24,7 +24,7 @@ percentinvalid=$(awk "BEGIN { pc=100*${invalidsites}/${total}; i=int(pc); print 
 
 updatereadme () {
 
-printf '%s\n%s%s\n%s%s\n%s%s\n%s%s\n%s\n%s%s\n%s' "${startmarker}" "#### Version: " "${version}" "#### ACTIVE Phishing URLs (Tested): " "[${activesites}](https://raw.githubusercontent.com/mitchellkrogza/Phishing-URL-Testing-Database-of-Link-Statuses/master/phishing-urls-ACTIVE.txt) (${percentactive} %)" "#### INACTIVE Phishing URLs (Tested): " "[${inactivesites}](https://raw.githubusercontent.com/mitchellkrogza/Phishing-URL-Testing-Database-of-Link-Statuses/master/phishing-urls-INACTIVE.txt) (${percentinactive} %)" "#### INVALID Phishing URLs (Tested): " "[${invalidsites}](https://raw.githubusercontent.com/mitchellkrogza/Phishing-URL-Testing-Database-of-Link-Statuses/master/phishing-urls-INVALID.txt) (${percentinvalid} %)" "*****************************" "#### Total Phishing URL's Captured: " "[${totalexploits}](https://raw.githubusercontent.com/mitchellkrogza/Phishing-URL-Testing-Database-of-Link-Statuses/master/input-source/ALL-feeds.list) :exclamation: Large File" "${endmarker}" >> ${tmprdme}
+printf '%s\n%s%s\n%s%s\n%s%s\n%s%s\n%s\n%s%s\n%s' "${startmarker}" "#### Version: " "${version}" "#### ACTIVE Phishing URLs (Tested): " "[${activesites}](https://raw.githubusercontent.com/mitchellkrogza/Phishing-URL-Testing-Database-of-Link-Statuses/master/phishing-urls-ACTIVE.txt) (${percentactive} %)" "#### INACTIVE Phishing URLs (Tested): " "[${inactivesites}](https://raw.githubusercontent.com/mitchellkrogza/Phishing-URL-Testing-Database-of-Link-Statuses/master/phishing-urls-INACTIVE.txt) (${percentinactive} %)" "#### INVALID Phishing URLs (Tested): " "[${invalidsites}](https://raw.githubusercontent.com/mitchellkrogza/Phishing-URL-Testing-Database-of-Link-Statuses/master/phishing-urls-INVALID.txt) (${percentinvalid} %)" "*****************************" "#### Total Phishing URL's Captured: " "[${totalexploits}](https://raw.githubusercontent.com/mitchellkrogza/Phishing-URL-Testing-Database-of-Link-Statuses/master/input-source/ALL-feeds-URLS.lst)" "${endmarker}" >> ${tmprdme}
 mv ${tmprdme} ${tmprdme2}
 ed -s ${tmprdme2}<<\IN
 1,/_______________/d

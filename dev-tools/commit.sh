@@ -11,11 +11,10 @@ cat ${TRAVIS_BUILD_DIR}/dev-tools/output/domains/ACTIVE/list | grep -v "^$" | gr
 cat ${TRAVIS_BUILD_DIR}/dev-tools/output/domains/INACTIVE/list | grep -v "^$" | grep -v "^#" > ${TRAVIS_BUILD_DIR}/phishing-urls-INACTIVE.txt
 cat ${TRAVIS_BUILD_DIR}/dev-tools/output/domains/INVALID/list | grep -v "^$" | grep -v "^#" > ${TRAVIS_BUILD_DIR}/phishing-urls-INVALID.txt
 
-# *********************************************************
-# Pull Fresh Data for our Next Tests and Modify Readme File
-# *********************************************************
+# ******************
+# Modify Readme File
+# ******************
 
-bash ${TRAVIS_BUILD_DIR}/dev-tools/pulldata.sh
 bash ${TRAVIS_BUILD_DIR}/dev-tools/modify-readme.sh
 
 # ***************
