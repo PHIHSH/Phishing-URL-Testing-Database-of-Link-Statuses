@@ -21,7 +21,7 @@ PrepareTravis () {
     git config --global user.name "${GIT_NAME}"
     git config --global push.default simple
     git checkout "${GIT_BRANCH}"
-    git lfs install
+    git lfs uninstall
 }
 
 # **********************************************
