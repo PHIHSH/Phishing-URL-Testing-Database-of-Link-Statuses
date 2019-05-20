@@ -375,3 +375,8 @@ PDF/nsw/data/office365.htm"
 http://nittsu-ko.com:81/
 http://nittsu-ko.com:81/kb.html
 http://nittsu-ko.com:81/pp2.html
+http://nttdocomo-ki.com:81/dao.html
+http://nttdocomo-ki.com:81/two.html
+"http://ockdesigns.com/.joice/aliyun/login.php?l=_JeHFUq_VJOXK0QWHtoGYDw1774256418&fid.13InboxLight.aspxn.1774256418&fid.125289964252813InboxLight99642_Product-userid&userid=admin@yujing-group.com.cn\r\n"
+"http://ockdesigns.com/.joice/aliyun/login.php?l=_JeHFUq_VJOXK0QWHtoGYDw1774256418&fid.13InboxLight.aspxn.1774256418&fid.125289964252813InboxLight99642_Product-userid&userid=cindy@yujing-group.com.cn\r\n"
+"http://oldschool-membership.com/m=weblogin/loginform.ws821
