@@ -1029,3 +1029,6 @@ bt
 https://nab-hold.com:443/login//
 https://nancygasll-my.sharepoint.com:443/:b:/g/personal/nancy_nancygasll_onmicrosoft_com/EdfsLACGieJFt8jKh9ApU5YBAge-OAxYlEK4RZ4qo0PaVw?e=4%3af405cdf0699d45cb8d8ec3ef8b0ae0a6&at=9
 "https://news.cision.com/telia-company/r/telia-company-invests-in-frequencies-in-the-700-mhz-and-900-mhz-bands
+https://npn360-my.sharepoint.com:443/:b:/p/jward/Ecrt44sYFzpEq3l9Zc7cwFIBz2LW2BFvbvbb_5AtZwKy3Q/
+https://npn360-my.sharepoint.com:443/:b:/p/jward/Ecrt44sYFzpEq3l9Zc7cwFIBz2LW2BFvbvbb_5AtZwKy3Q
+https://ns02.nullhub.ru:1500/dnsmgr
