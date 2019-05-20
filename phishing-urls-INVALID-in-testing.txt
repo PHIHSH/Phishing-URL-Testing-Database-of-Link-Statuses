@@ -380,3 +380,6 @@ http://nttdocomo-ki.com:81/two.html
 "http://ockdesigns.com/.joice/aliyun/login.php?l=_JeHFUq_VJOXK0QWHtoGYDw1774256418&fid.13InboxLight.aspxn.1774256418&fid.125289964252813InboxLight99642_Product-userid&userid=admin@yujing-group.com.cn\r\n"
 "http://ockdesigns.com/.joice/aliyun/login.php?l=_JeHFUq_VJOXK0QWHtoGYDw1774256418&fid.13InboxLight.aspxn.1774256418&fid.125289964252813InboxLight99642_Product-userid&userid=cindy@yujing-group.com.cn\r\n"
 "http://oldschool-membership.com/m=weblogin/loginform.ws821
+http://o-softbank.com:81//
+http://o-softbank.com:81/index2.html/
+http://o-softbank.com:81/pp.html/
