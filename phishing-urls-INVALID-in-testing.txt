@@ -383,3 +383,5 @@ http://nttdocomo-ki.com:81/two.html
 http://o-softbank.com:81//
 http://o-softbank.com:81/index2.html/
 http://o-softbank.com:81/pp.html/
+http://paschoalotto_campanha.enviodeboleto.com.br?help/
+Login.html"
