@@ -7,7 +7,7 @@ A testing repository to test the statuses of Phishing Links on the Internet. Dat
 This repository is part of the [Phishing Domain Database](https://github.com/mitchellkrogza/Phishing.Database)
 
 _______________
-#### Version: V0.1.10903
+#### Version: V0.1.10904
 #### ACTIVE Phishing URLs (Tested): [1](https://raw.githubusercontent.com/mitchellkrogza/Phishing-URL-Testing-Database-of-Link-Statuses/master/phishing-urls-ACTIVE.txt) (0 %)
 #### INACTIVE Phishing URLs (Tested): [1](https://raw.githubusercontent.com/mitchellkrogza/Phishing-URL-Testing-Database-of-Link-Statuses/master/phishing-urls-INACTIVE.txt) (0 %)
 #### INVALID Phishing URLs (Tested): [8846](https://raw.githubusercontent.com/mitchellkrogza/Phishing-URL-Testing-Database-of-Link-Statuses/master/phishing-urls-INVALID.txt) (100 %)
