@@ -385,3 +385,6 @@ http://o-softbank.com:81/index2.html/
 http://o-softbank.com:81/pp.html/
 http://paschoalotto_campanha.enviodeboleto.com.br?help/
 Login.html"
+"http://pertiti.com/css/www.loginalibaba.com/alibaba/alibaba/login.alibaba.com.php?.rand=13vqcr8bp0gud&amp;cbcxt=mai&amp;email=jdoe1@emailhost.c.kr\r\n&amp;id=64855&amp;lc=1033&amp;mkt="
+"http://pertiti.com/css/www.loginalibaba.com/alibaba/alibaba/login.alibaba.com.php?.rand=13vqcr8bp0gud&amp;cbcxt=mai&amp;email=jdoe1@emailhost.c.kr\\r\\n&amp;id=64855&amp;lc=1033&amp;mkt=en-us&amp;snsc=1"
+"http://pertiti.com/css/www.loginalibaba.com/alibaba/alibaba/login.alibaba.com.php?.rand=13vqcr8bp0gud&amp;cbcxt=mai&amp;email=jdoe1@emailhost.c.kr\r\n&amp;id=64855&amp;lc=1033&amp;mkt=en-us&amp;snsc=1"
