@@ -16,6 +16,7 @@ http://home.greylurk.com:44164/absa.WITH.passcode.BEEPING-COOKIES/AbsaOnline.htm
 http://jppost-ahi.com:81                                                                             INVALID     SYNTAX    
 http://jppost-aku.com:81/index2.html                                                                 INVALID     SYNTAX    
 http://jppost-ana.com:81/index2.html                                                                 INVALID     SYNTAX    
+http://jppost-ano.com:81                                                                             INVALID     SYNTAX    
 http://jppost-ano.com:81/two.html                                                                    INVALID     SYNTAX    
 http://jppost-asa.com:81/pp.html                                                                     INVALID     SYNTAX    
 http://jppost-asi.com:81/dao.html                                                                    INVALID     SYNTAX    
@@ -79,6 +80,7 @@ http://sagawa-cne.com:81/pp.html                                                
 http://sagawa-cre.com:81/sagawa.apk                                                                  INVALID     SYNTAX    
 http://sagawa-cri.com:81/pp.html                                                                     INVALID     SYNTAX    
 http://sagawa-csa.com:81/index2.html                                                                 INVALID     SYNTAX    
+http://sagawa-cte.com:81/index2.html                                                                 INVALID     SYNTAX    
 http://sagawa-cte.com:81/pp.html                                                                     INVALID     SYNTAX    
 http://sagawa-cya.com:81                                                                             INVALID     SYNTAX    
 http://sagawa-cyo.com:81                                                                             INVALID     SYNTAX    
@@ -99,6 +101,7 @@ http://sagawa-edu.com:81/pp.html                                                
 http://sagawa-ego.com:81                                                                             INVALID     SYNTAX    
 http://sagawa-eha.com:81/pp.html                                                                     INVALID     SYNTAX    
 http://sagawa-eho.com:81                                                                             INVALID     SYNTAX    
+http://sagawa-ema.com:81/pp.html                                                                     INVALID     SYNTAX    
 http://sagawa-emo.com:88/pp.html                                                                     INVALID     SYNTAX    
 http://sagawa-ena.com:81/pp.html                                                                     INVALID     SYNTAX    
 http://sagawa-ero.com:81/pp.html                                                                     INVALID     SYNTAX    
@@ -133,6 +136,7 @@ http://sagawa-oto.com:81/pp.html                                                
 http://sagawa-oyu.com:81/index2.html                                                                 INVALID     SYNTAX    
 http://sagawa-qep.com:81/index2.html                                                                 INVALID     SYNTAX    
 http://sagawa-sbe.com:81                                                                             INVALID     SYNTAX    
+http://sagawa-sme.com:81/index2.html                                                                 INVALID     SYNTAX    
 http://sagawa-syu.com:81/index2.html                                                                 INVALID     SYNTAX    
 http://sagawa-syu.com:81/pp.html                                                                     INVALID     SYNTAX    
 http://sagawa-tke.com:81/pp.html                                                                     INVALID     SYNTAX    
@@ -161,6 +165,7 @@ https://kucinggila.com:/at&t/index.php                                          
 "https://lovemelos.com/wp-includes/en_yahoo/6edca06d2fbbbae835dc4d40913411f0?cmd=_identifier_Demarrer_ID=7370489155874%20_TIme:Thu INVALID     SYNTAX    
 https://mayak-otel.ru:443/wp-content/themes/imperialkt/webmailss/login.php                           INVALID     SYNTAX    
 https://micheallgas-my.sharepoint.com:443/:b:/g/personal/mike_micheallgas_onmicrosoft_com/ESIPFwKjmkFBitWnTUrs36wB-_gEsNigGZ9Eacthr_7oEw?e=4%3a428b2accc660490b81afe2bd6975ff37&at=9 INVALID     SYNTAX    
+https://micheallgas-my.sharepoint.com:443/:b:/g/personal/mike_micheallgas_onmicrosoft_com/EYP7-BRwAvJEuwH-GURbXwIBknGgxk_IJitMWOSdgz6diA?e=4%3aabf03de16d8a4ddbbe8389a7f9e2e1a2&at=9 INVALID     SYNTAX    
 https://motoman-my.sharepoint.com:443/:b:/p/dale_ferrell/EX_G_SHJDjVGuHHHs3nAZS8BkMZw2-1s3hL9faMEJn0a9A?e=4%3ac09e9c487ffe48c1ae9905c06cfd7905&at=9 INVALID     SYNTAX    
 https://nab-hold.com:443/login                                                                       INVALID     SYNTAX    
 https://npn360-my.sharepoint.com:443/:b:/p/jward/Ecrt44sYFzpEq3l9Zc7cwFIBz2LW2BFvbvbb_5AtZwKy3Q      INVALID     SYNTAX    
@@ -174,6 +179,7 @@ https://quoinon.com:443/temp/d41d8cd98f00b204e9800998ecf8427e/Up-dating4.php?cou
 "https://secure.runescape.com-ex.ru/m=weblogin/loginform115                                          INVALID     SYNTAX    
 "https://secure.runescape.com-ex.ru/m=weblogin/loginform978                                          INVALID     SYNTAX    
 "https://secure.runescape.com-forumslogin.icu/m=forum/forums.ws747                                   INVALID     SYNTAX    
+"https://secure.runescape.com-riz.top/m=weblogin/loginform.ws698                                     INVALID     SYNTAX    
 "https://secure.runescape.com-rs.ru/m=weblogin/loginform115                                          INVALID     SYNTAX    
 "https://secure.runescape-c.xyz/m=weblogin/loginform.ws594                                           INVALID     SYNTAX    
 "https://securesaccountloginlock-appbills.com/?                                                      INVALID     SYNTAX    
@@ -199,10 +205,11 @@ http://yamato-mo.com:88/pp.html                                                 
 http://yamato-na.com:81                                                                              INVALID     SYNTAX    
 http://yamato-no.com:81                                                                              INVALID     SYNTAX    
 http://yamato-no.com:81/index2.html                                                                  INVALID     SYNTAX    
+http://yamato-no.com:81/pp.html                                                                      INVALID     SYNTAX    
 http://yamato-nu.com:81                                                                              INVALID     SYNTAX    
 http://yamato-nu.com:81/pp.html                                                                      INVALID     SYNTAX    
 http://yamato-ri.com:88                                                                              INVALID     SYNTAX    
 http://yamato-so.com:81                                                                              INVALID     SYNTAX    
 http://yamato-te.com:81                                                                              INVALID     SYNTAX    
 http://yamato-wa.com:88/index2.html                                                                  INVALID     SYNTAX    http://jppost-aka.com:81/index2.html                                                                 INVALID     SYNTAX    "http://derquiestaciononline.com                                                                     INVALID     SYNTAX    http://sagawa-cre.com:81/index2.html                                                                 INVALID     SYNTAX    http://jppost-aso.com:81/dao.html                                                                    INVALID     SYNTAX    "https://secure.runescape.com-iri.top/m=weblogin/loginform.ws698                                     INVALID     SYNTAX    https://gasllcomp-my.sharepoint.com:443/:b:/g/personal/tonya_gasllcomp_onmicrosoft_com/EQgAEZigdY1GlVqixfg5tFoBEEj9T5q1ZQJi7rj36YVTYg?e=4%3a60ae69593d4644f98c904b2e6e3194c4&at=9 INVALID     SYNTAX    http://sagawa-epu.com:81                                                                             INVALID     SYNTAX    http://jppost-ahi.com:81/index2.html                                                                 INVALID     SYNTAX    
-@net-tech.us"                                                                                        INVALID     SYNTAX    http://sagawa-uyo.com:81                                                                             INVALID     SYNTAX    
+@net-tech.us"                                                                                        INVALID     SYNTAX    http://sagawa-uyo.com:81                                                                             INVALID     SYNTAX    "https://onedrive.live.com/redir?resid=C21982B8039E717A!110&amp;authkey=!AHWKoKXmUBhocxg&amp;ithint=file INVALID     SYNTAX    
