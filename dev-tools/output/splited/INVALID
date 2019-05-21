@@ -32,6 +32,7 @@ http://jppost-bi.com:81/two.html                                                
 http://jppost-bo.com:81/dao.html                                                                     INVALID     SYNTAX    
 http://jppost-bu.com:81/dao.html                                                                     INVALID     SYNTAX    
 http://jppost-bu.com:81/two.html                                                                     INVALID     SYNTAX    
+http://jppost-fu.com:81/dao.html                                                                     INVALID     SYNTAX    
 http://jppost-gi.com:81/dao.html                                                                     INVALID     SYNTAX    
 http://jppost-ho.com:81/index2.html                                                                  INVALID     SYNTAX    
 http://jppost-ke.com:81/dao.html                                                                     INVALID     SYNTAX    
@@ -49,10 +50,13 @@ http://jppost-pa.com:81                                                         
 http://jppost-pi.com:81/dao.html                                                                     INVALID     SYNTAX    
 http://jppost-pi.com:81/index2.html                                                                  INVALID     SYNTAX    
 http://jppost-pi.com:81/two.html                                                                     INVALID     SYNTAX    
+http://jppost-po.com:81                                                                              INVALID     SYNTAX    
 http://jppost-po.com:81/index2.html                                                                  INVALID     SYNTAX    
 http://jppost-po.com:81/two.html                                                                     INVALID     SYNTAX    
+http://jppost-re.com:81/dao.html                                                                     INVALID     SYNTAX    
 http://jppost-ru.com:81                                                                              INVALID     SYNTAX    
 http://jppost-su.com:81/kb.html                                                                      INVALID     SYNTAX    
+http://jppost-to.com:81                                                                              INVALID     SYNTAX    
 http://jppost-tu.com:81/index2.html                                                                  INVALID     SYNTAX    
 http://jppost-wo.com:81/dao.html                                                                     INVALID     SYNTAX    
 http://jppost-wo.com:81/index2.html                                                                  INVALID     SYNTAX    
@@ -78,6 +82,7 @@ http://sagawa-cda.com:81                                                        
 http://sagawa-cde.com:81                                                                             INVALID     SYNTAX    
 http://sagawa-cdo.com:81                                                                             INVALID     SYNTAX    
 http://sagawa-cdo.com:81/pp.html                                                                     INVALID     SYNTAX    
+http://sagawa-cgi.com:81/index2.html                                                                 INVALID     SYNTAX    
 http://sagawa-cgo.com:81/pp.html                                                                     INVALID     SYNTAX    
 http://sagawa-chi.com:81                                                                             INVALID     SYNTAX    
 http://sagawa-cki.com:81                                                                             INVALID     SYNTAX    
@@ -110,6 +115,7 @@ http://sagawa-eha.com:81/pp.html                                                
 http://sagawa-eho.com:81                                                                             INVALID     SYNTAX    
 http://sagawa-ema.com:81/pp.html                                                                     INVALID     SYNTAX    
 http://sagawa-emo.com:88/pp.html                                                                     INVALID     SYNTAX    
+http://sagawa-emu.com:81/pp.html                                                                     INVALID     SYNTAX    
 http://sagawa-ena.com:81/pp.html                                                                     INVALID     SYNTAX    
 http://sagawa-ero.com:81/pp.html                                                                     INVALID     SYNTAX    
 http://sagawa-ewa.com:81/pp.html                                                                     INVALID     SYNTAX    
@@ -157,6 +163,7 @@ http://sagawa-umu.com:81/pp.html                                                
 http://sagawa-upa.com:81/dao.html                                                                    INVALID     SYNTAX    
 http://sagawa-upo.com:81/dao.html                                                                    INVALID     SYNTAX    
 http://sagawa-ure.com:81/index2.html                                                                 INVALID     SYNTAX    
+http://sagawa-uri.com:81/index2.html                                                                 INVALID     SYNTAX    
 http://sagawa-uro.com:81                                                                             INVALID     SYNTAX    
 http://sagawa-uro.com:81/pp.html                                                                     INVALID     SYNTAX    
 http://sagawa-uto.com:81                                                                             INVALID     SYNTAX    
@@ -167,6 +174,7 @@ https://banks24online.com:443/bank-of-hawaii/bank-of-hawaii-online-banking-sign-
 https://banksonline24.com:443/barclays/barclays-mortgage-calculators                                 INVALID     SYNTAX    
 https://boutique.festins.fr:443/paylib/frlogin/ca.engline/m.credit-agricole-paylib/credit-agricole.fr.moncompte/FR448949651321648794651302135687665310614899/LoginMDPopurlaHR0cHe6e7g68rh6j6780/91d84/index2.html INVALID     SYNTAX    
 "https://bradesc0-ponto-para-acessa-com-br.umbler.net/acessodesincronismo/desktop/thmpv.php?19       INVALID     SYNTAX    
+"https://honestcontractor.com/wp-content/uploads/2019/content/873eac77d5891480956e6f72a1d99ed6?user=jim@thejimburkefamily.com&amp;_verify?service=mail&amp;data:text/html;charset=utf-8;base64 INVALID     SYNTAX    
 https://kucinggila.com:/at&t/index.php                                                               INVALID     SYNTAX    
 "https://linkprotect.cudasvc.com/url?a=https://www.ltlservices.com/jweb/emf?e=ea661f19fe9d45b7391a691b13dbf4a0&amp;c=E INVALID     SYNTAX    
 "https://lovemelos.com/wp-includes/en_yahoo/6edca06d2fbbbae835dc4d40913411f0?cmd=_identifier_Demarrer_ID=7370489155874%20_TIme:Thu INVALID     SYNTAX    
@@ -186,6 +194,7 @@ https://quoinon.com:443/temp/d41d8cd98f00b204e9800998ecf8427e/Up-dating4.php?cou
 "https://secure.runescape.com-ex.ru/m=weblogin/loginform115                                          INVALID     SYNTAX    
 "https://secure.runescape.com-ex.ru/m=weblogin/loginform978                                          INVALID     SYNTAX    
 "https://secure.runescape.com-forumslogin.icu/m=forum/forums.ws747                                   INVALID     SYNTAX    
+"https://secure.runescape.com-inr.xyz/m=weblogin/loginform.ws821                                     INVALID     SYNTAX    
 "https://secure.runescape.com-riz.top/m=weblogin/loginform.ws698                                     INVALID     SYNTAX    
 "https://secure.runescape.com-rs.ru/m=weblogin/loginform115                                          INVALID     SYNTAX    
 "https://secure.runescape-c.xyz/m=weblogin/loginform.ws594                                           INVALID     SYNTAX    
@@ -205,6 +214,7 @@ http://yamato-fu.com:88                                                         
 http://yamato-ka.com:81/index2.html                                                                  INVALID     SYNTAX    
 http://yamato-ku.com:81                                                                              INVALID     SYNTAX    
 http://yamato-me.com:88                                                                              INVALID     SYNTAX    
+http://yamato-me.com:88/index2.html                                                                  INVALID     SYNTAX    
 http://yamato-mi.com:88/index2.html                                                                  INVALID     SYNTAX    
 http://yamato-mo.com:81                                                                              INVALID     SYNTAX    
 http://yamato-mo.com:88/index2.html                                                                  INVALID     SYNTAX    
@@ -218,5 +228,6 @@ http://yamato-nu.com:81/pp.html                                                 
 http://yamato-ri.com:88                                                                              INVALID     SYNTAX    
 http://yamato-so.com:81                                                                              INVALID     SYNTAX    
 http://yamato-te.com:81                                                                              INVALID     SYNTAX    
+http://yamato-tu.com:81                                                                              INVALID     SYNTAX    
 http://yamato-wa.com:88/index2.html                                                                  INVALID     SYNTAX    http://jppost-aka.com:81/index2.html                                                                 INVALID     SYNTAX    "http://derquiestaciononline.com                                                                     INVALID     SYNTAX    http://sagawa-cre.com:81/index2.html                                                                 INVALID     SYNTAX    http://jppost-aso.com:81/dao.html                                                                    INVALID     SYNTAX    "https://secure.runescape.com-iri.top/m=weblogin/loginform.ws698                                     INVALID     SYNTAX    https://gasllcomp-my.sharepoint.com:443/:b:/g/personal/tonya_gasllcomp_onmicrosoft_com/EQgAEZigdY1GlVqixfg5tFoBEEj9T5q1ZQJi7rj36YVTYg?e=4%3a60ae69593d4644f98c904b2e6e3194c4&at=9 INVALID     SYNTAX    http://sagawa-epu.com:81                                                                             INVALID     SYNTAX    http://jppost-ahi.com:81/index2.html                                                                 INVALID     SYNTAX    
-@net-tech.us"                                                                                        INVALID     SYNTAX    http://sagawa-uyo.com:81                                                                             INVALID     SYNTAX    "https://onedrive.live.com/redir?resid=C21982B8039E717A!110&amp;authkey=!AHWKoKXmUBhocxg&amp;ithint=file INVALID     SYNTAX    http://jppost-aka.com:81/dao.html                                                                    INVALID     SYNTAX    
+@net-tech.us"                                                                                        INVALID     SYNTAX    http://sagawa-uyo.com:81                                                                             INVALID     SYNTAX    "https://onedrive.live.com/redir?resid=C21982B8039E717A!110&amp;authkey=!AHWKoKXmUBhocxg&amp;ithint=file INVALID     SYNTAX    http://jppost-aka.com:81/dao.html                                                                    INVALID     SYNTAX    http://sagawa-hnu.com:81/index2.html                                                                 INVALID     SYNTAX    
