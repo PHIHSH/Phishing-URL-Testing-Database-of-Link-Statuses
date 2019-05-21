@@ -27,25 +27,12 @@ PrepareTravis () {
 # Fetch our feed(s) and append to our input file
 # **********************************************
 
-fetch () {
+FetchData () {
 	sudo wget -q https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/input-source/ALL-feeds-URLS.lst -O ${inputA}
 }
 
-# *************************************************
-# Prepare our input lists and remove any duplicates
-# *************************************************
-
-initiate () {
-
-    # Prepare Feed
-    cat ${inputA} | sed 's/^[ \t]*//;s/[ \t]*$//' > ${tmp}
-    sudo mv ${tmp} ${inputA}
-}
-
-
 PrepareTravis
-fetch
-initiate
+FetchData
 
 # **********************
 # Exit With Error Number

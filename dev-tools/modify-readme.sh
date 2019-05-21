@@ -9,7 +9,7 @@
 
 tmprdme=tmprdme
 tmprdme2=tmprdme2
-version=V0.1.${TRAVIS_BUILD_NUMBER}
+version=V1.0.${TRAVIS_BUILD_NUMBER}
 versiondate="$(date)"
 startmarker="_______________"
 endmarker="____________________"
