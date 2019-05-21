@@ -2,6 +2,7 @@ http://103.71.168.43:81/mis/ajax/blu
 http://Web-telegram.ru
 "http://cheerycentre.org/files.co.uk
 http://facebook.com-continue-LjeICNKgsNs.miraelyse.com
+"http://fc88b5b8.ngrok.io/login.live.com/login.srf?CBCXT=out&amp;RpsCsrfState=9d3fb2ae-1d66-0879-2260-c856ad69782a&amp;aadredir=1&amp;cobrandid=90015&amp;ct=1556810270&amp;fl=dob
 http://home.greylurk.com:44164/absa.WITH.passcode.BEEPING-COOKIES/AbsaOnline.htm
 http://jppost-ahi.com:81
 http://jppost-aku.com:81/index2.html
@@ -12,6 +13,7 @@ http://jppost-asi.com:81/dao.html
 http://jppost-aso.com:81
 http://jppost-ate.com:81/dao.html
 http://jppost-atu.com:81/index2.html
+http://jppost-atu.com:81/two.html
 http://jppost-ba.com:81
 http://jppost-bi.com:81/two.html
 http://jppost-bu.com:81/dao.html
@@ -40,6 +42,7 @@ http://mail1.calvaryhealthcare.com.au:32224/?dmVyPTEuMDAxJiY3NmM0ZDk0YzUxYzQ1YTg
 http://nttdocomo-ki.com:81/two.html
 http://s1.node103.iifab.com:3333/api/smartlink?trace-lynx=rp&amp;checklynx_2018=1&amp;s=4937593&amp;at=4&amp;rt=api&amp;s1=bmconv_20190520030145_8699dba4_d46a_4ff3_945a_00512502716c&amp;s2=5835_cf1a3fda0&amp;s3=&amp;s4=&amp;s5=
 http://sagawa-ae.com:81/index2.html
+http://sagawa-bdo.com:81/index2.html
 http://sagawa-cba.com:81/pp.html
 http://sagawa-cbi.com:81/pp.html
 http://sagawa-cda.com:81
@@ -48,17 +51,21 @@ http://sagawa-cdo.com:81/pp.html
 http://sagawa-cgo.com:81/pp.html
 http://sagawa-cma.com:81/pp.html
 http://sagawa-cre.com:81/sagawa.apk
+http://sagawa-cri.com:81/pp.html
 http://sagawa-csa.com:81/index2.html
 http://sagawa-cte.com:81/pp.html
 http://sagawa-cya.com:81
 http://sagawa-cyo.com:81
+http://sagawa-dba.com:81/index2.html
 http://sagawa-dbi.com:81/index2.html
 http://sagawa-ddo.com:81/index2.html
+http://sagawa-dgo.com:81
 http://sagawa-dpu.com:81/pp.html
 http://sagawa-dri.com:81/index2.html
 http://sagawa-dsu.com:81
 http://sagawa-dya.com:81/index2.html
 http://sagawa-ede.com:81/pp.html
+http://sagawa-edo.com:81/index2.html
 http://sagawa-edu.com:81/pp.html
 http://sagawa-ego.com:81
 http://sagawa-eha.com:81/pp.html
@@ -70,6 +77,7 @@ http://sagawa-fru.com:81/pp.html
 http://sagawa-hge.com:81
 http://sagawa-hha.com:81/index2.html
 http://sagawa-hhe.com:81
+http://sagawa-hhe.com:81/pp.html
 http://sagawa-hho.com:81
 http://sagawa-hke.com:81/pp.html
 http://sagawa-hmo.com:81/pp.html
@@ -122,6 +130,7 @@ https://tindayastudio.com:443/wp-includes/css/bankofamerica.com.login
 https://tindayastudio.com:443/wp-includes/css/bankofamerica.com.login/signInScreen.go.html
 https://www.tremplin54.com:443/wp-content/plugins/contact-form-7/admin/js/LUIDD2254789663214/users/Login.ID-37831
 https://www.v3.champssuryonne.com:443/images/znanti/4e647ade56bea8884b6e85969ed96a36NTBjNDQzNzA1Y2UyZTA0ODhkOGFkZjRmZDAwYzM1NGY=/myaccount/websc_login/?country.x=&locale.x=en_
+"http://www.match.com-mypictures.lyricsmantra.com/
 http://www.portmap.io:44164/absa.WITH.passcode.BEEPING-COOKIES/AbsaOnline.htm
 "http://www.samaacademy.be/img/pattern/mweb2/18453ec9969b3c0559081615b1ec9937/?.verify?service=mail&amp;data:text/html;charset=utf-8;base64
 http://yamato-fu.com:88
@@ -135,5 +144,7 @@ http://yamato-no.com:81
 http://yamato-no.com:81/index2.html
 http://yamato-nu.com:81
 http://yamato-nu.com:81/pp.html
+http://yamato-ri.com:88
 http://yamato-so.com:81
-http://yamato-wa.com:88/index2.htmlhttp://jppost-aka.com:81/index2.html"http://derquiestaciononline.comhttp://sagawa-cre.com:81/index2.html
+http://yamato-te.com:81
+http://yamato-wa.com:88/index2.htmlhttp://jppost-aka.com:81/index2.html"http://derquiestaciononline.comhttp://sagawa-cre.com:81/index2.htmlhttp://jppost-aso.com:81/dao.html
