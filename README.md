@@ -3,16 +3,16 @@
 # Phishing Links Testing Database  
 
 _______________
-#### Version: V1.0.11141
+#### Version: V1.0.11142
 #### ACTIVE Phishing URLs (Tested): [0](https://raw.githubusercontent.com/mitchellkrogza/Phishing-URL-Testing-Database-of-Link-Statuses/master/phishing-urls-ACTIVE.txt) ( %)
 #### INACTIVE Phishing URLs (Tested): [0](https://raw.githubusercontent.com/mitchellkrogza/Phishing-URL-Testing-Database-of-Link-Statuses/master/phishing-urls-INACTIVE.txt) ( %)
 #### INVALID Phishing URLs (Tested): [0](https://raw.githubusercontent.com/mitchellkrogza/Phishing-URL-Testing-Database-of-Link-Statuses/master/phishing-urls-INVALID.txt) ( %)
 *****************************
-#### ACTIVE Phishing URLs (In Testing): [11393](https://raw.githubusercontent.com/mitchellkrogza/Phishing-URL-Testing-Database-of-Link-Statuses/master/phishing-urls-ACTIVE-in-testing.txt) (42 %)
-#### INACTIVE Phishing URLs (In Testing): [15258](https://raw.githubusercontent.com/mitchellkrogza/Phishing-URL-Testing-Database-of-Link-Statuses/master/phishing-urls-INACTIVE-in-testing.txt) (57 %)
+#### ACTIVE Phishing URLs (In Testing): [11451](https://raw.githubusercontent.com/mitchellkrogza/Phishing-URL-Testing-Database-of-Link-Statuses/master/phishing-urls-ACTIVE-in-testing.txt) (42 %)
+#### INACTIVE Phishing URLs (In Testing): [15327](https://raw.githubusercontent.com/mitchellkrogza/Phishing-URL-Testing-Database-of-Link-Statuses/master/phishing-urls-INACTIVE-in-testing.txt) (57 %)
 #### INVALID Phishing URLs (In Testing): [347](https://raw.githubusercontent.com/mitchellkrogza/Phishing-URL-Testing-Database-of-Link-Statuses/master/phishing-urls-INVALID-in-testing.txt) (1 %)
 *****************************
-#### Total Phishing URL's Captured: [85708](https://raw.githubusercontent.com/mitchellkrogza/Phishing-URL-Testing-Database-of-Link-Statuses/master/input-source/ALL-feeds-URLS.lst)
+#### Total Phishing URL's Captured: [85723](https://raw.githubusercontent.com/mitchellkrogza/Phishing-URL-Testing-Database-of-Link-Statuses/master/input-source/ALL-feeds-URLS.lst)
 ____________________
 
 
