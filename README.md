@@ -3,12 +3,12 @@
 # Phishing Links Testing Database  
 
 _______________
-#### Version: V1.0.11256
+#### Version: V1.0.11257
 | Phishing Links Status  | Link Count | Percentage | Last Tested | Download |
 | ---: | :---: | :---: | :---: |:---: |
-| ACTIVE <img src=https://github.com/mitchellkrogza/Phishing-URL-Testing-Database-of-Link-Statuses/blob/master/dev-tools/green.jpg/> | [37572](https://raw.githubusercontent.com/mitchellkrogza/Phishing-URL-Testing-Database-of-Link-Statuses/master/phishing-links-ACTIVE.txt)  | 42 % | 2019-05-24 at 13:43:54 | [Download](https://raw.githubusercontent.com/mitchellkrogza/Phishing-URL-Testing-Database-of-Link-Statuses/master/phishing-links-ACTIVE.txt) |
-| INACTIVE <img src=https://github.com/mitchellkrogza/Phishing-URL-Testing-Database-of-Link-Statuses/blob/master/dev-tools/red.jpg/>  | [49531](https://raw.githubusercontent.com/mitchellkrogza/Phishing-URL-Testing-Database-of-Link-Statuses/master/phishing-links-INACTIVE.txt)  | 56 % | 2019-05-24 at 13:43:54 | [Download](https://raw.githubusercontent.com/mitchellkrogza/Phishing-URL-Testing-Database-of-Link-Statuses/master/phishing-links-INACTIVE.txt) |
-| INVALID <img src=https://github.com/mitchellkrogza/Phishing-URL-Testing-Database-of-Link-Statuses/blob/master/dev-tools/blue.jpg/> | [1303](https://raw.githubusercontent.com/mitchellkrogza/Phishing-URL-Testing-Database-of-Link-Statuses/master/phishing-links-INVALID.txt)  | 1 % | 2019-05-24 at 13:43:54 | [Download](https://raw.githubusercontent.com/mitchellkrogza/Phishing-URL-Testing-Database-of-Link-Statuses/master/phishing-links-INVALID.txt) |
+| ACTIVE <img src=https://github.com/mitchellkrogza/Phishing-URL-Testing-Database-of-Link-Statuses/blob/master/dev-tools/green.jpg/> | [37572](https://raw.githubusercontent.com/mitchellkrogza/Phishing-URL-Testing-Database-of-Link-Statuses/master/phishing-links-ACTIVE.txt)  | 42 % | 2019-05-24 at 13:50:20 | [Download](https://raw.githubusercontent.com/mitchellkrogza/Phishing-URL-Testing-Database-of-Link-Statuses/master/phishing-links-ACTIVE.txt) |
+| INACTIVE <img src=https://github.com/mitchellkrogza/Phishing-URL-Testing-Database-of-Link-Statuses/blob/master/dev-tools/red.jpg/>  | [49531](https://raw.githubusercontent.com/mitchellkrogza/Phishing-URL-Testing-Database-of-Link-Statuses/master/phishing-links-INACTIVE.txt)  | 56 % | 2019-05-24 at 13:50:20 | [Download](https://raw.githubusercontent.com/mitchellkrogza/Phishing-URL-Testing-Database-of-Link-Statuses/master/phishing-links-INACTIVE.txt) |
+| INVALID <img src=https://github.com/mitchellkrogza/Phishing-URL-Testing-Database-of-Link-Statuses/blob/master/dev-tools/blue.jpg/> | [1303](https://raw.githubusercontent.com/mitchellkrogza/Phishing-URL-Testing-Database-of-Link-Statuses/master/phishing-links-INVALID.txt)  | 1 % | 2019-05-24 at 13:50:20 | [Download](https://raw.githubusercontent.com/mitchellkrogza/Phishing-URL-Testing-Database-of-Link-Statuses/master/phishing-links-INVALID.txt) |
 *****************************
 #### Total Phishing Links Captured: [88480](https://raw.githubusercontent.com/mitchellkrogza/Phishing-URL-Testing-Database-of-Link-Statuses/master/input-source/ALL-feeds-URLS.lst)
 ____________________
