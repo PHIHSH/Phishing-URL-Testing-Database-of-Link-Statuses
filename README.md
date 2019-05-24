@@ -132,8 +132,8 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 
-| Status  | Link Count | Percentage | Tested |
+| Phishing Link Status  | Link Count | Percentage | Last Tested |
 | ---: | :---: | :---: | :---: |
-| ACTIVE  | Data  | Data | Data |
-| INACTIVE  | Data  | Data | Data |
-| INVALID | Data  | Data | Data |
+| ACTIVE[#c5f015]  | Data  | Data | Data |
+| INACTIVE[#f03c15]  | Data  | Data | Data |
+| INVALID[#1589F0] | Data  | Data | Data |
