@@ -98,7 +98,7 @@ Simply send a PR adding your input source details and we will add the source.
 ************************************************
 ## Keep Threat Intelligence Free and Open Source
 
-We are firm believers that threat intelligence on Phishing, Malware and Ransomware should always remain free and open source. Open disclosure of any criminal activity such as Phishing, Malware and Ransomware is not only vital to the protection of every internet user and corporation but also vital to the gathering of intelligence in order to shut down these criminal sites. Selling access to phishing data under the guises of "protection" is a practice somewhat as improper as the phishing links and domains themselves. 
+We are firm believers that threat intelligence on Phishing, Malware and Ransomware should always remain free and open source. Open disclosure of any criminal activity such as Phishing, Malware and Ransomware is not only vital to the protection of every internet user and corporation but also vital to the gathering of intelligence in order to shut down these criminal sites. Selling access to phishing data under the guises of "protection" is somewhat questionable. 
 
 
 ************************************************
