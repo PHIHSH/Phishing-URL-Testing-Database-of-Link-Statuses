@@ -14,20 +14,20 @@ versiondate="$(date)"
 startmarker="_______________"
 endmarker="____________________"
 totalexploits=$(wc -l < ${TRAVIS_BUILD_DIR}/input-source/ALL-feeds-URLS.lst)
-activesites=$(wc -l < ${TRAVIS_BUILD_DIR}/phishing-urls-ACTIVE.txt)
-inactivesites=$(wc -l < ${TRAVIS_BUILD_DIR}/phishing-urls-INACTIVE.txt)
-invalidsites=$(wc -l < ${TRAVIS_BUILD_DIR}/phishing-urls-INVALID.txt)
-activesitestest=$(wc -l < ${TRAVIS_BUILD_DIR}/phishing-urls-ACTIVE-in-testing.txt)
-inactivesitestest=$(wc -l < ${TRAVIS_BUILD_DIR}/phishing-urls-INACTIVE-in-testing.txt)
-invalidsitestest=$(wc -l < ${TRAVIS_BUILD_DIR}/phishing-urls-INVALID-in-testing.txt)
+activesites=$(wc -l < ${TRAVIS_BUILD_DIR}/phishing-links-ACTIVE.txt)
+inactivesites=$(wc -l < ${TRAVIS_BUILD_DIR}/phishing-links-INACTIVE.txt)
+invalidsites=$(wc -l < ${TRAVIS_BUILD_DIR}/phishing-links-INVALID.txt)
+#activesitestest=$(wc -l < ${TRAVIS_BUILD_DIR}/phishing-urls-ACTIVE-in-testing.txt)
+#inactivesitestest=$(wc -l < ${TRAVIS_BUILD_DIR}/phishing-urls-INACTIVE-in-testing.txt)
+#invalidsitestest=$(wc -l < ${TRAVIS_BUILD_DIR}/phishing-urls-INVALID-in-testing.txt)
 total=$((${activesites} + ${inactivesites} + ${invalidsites}))
-total2=$((${activesitestest} + ${inactivesitestest} + ${invalidsitestest}))
+#total2=$((${activesitestest} + ${inactivesitestest} + ${invalidsitestest}))
 percentactive=$(awk "BEGIN { pc=100*${activesites}/${total}; i=int(pc); print (pc-i<0.5)?i:i+1 }")
 percentinactive=$(awk "BEGIN { pc=100*${inactivesites}/${total}; i=int(pc); print (pc-i<0.5)?i:i+1 }")
 percentinvalid=$(awk "BEGIN { pc=100*${invalidsites}/${total}; i=int(pc); print (pc-i<0.5)?i:i+1 }")
-percentactivetest=$(awk "BEGIN { pc=100*${activesitestest}/${total2}; i=int(pc); print (pc-i<0.5)?i:i+1 }")
-percentinactivetest=$(awk "BEGIN { pc=100*${inactivesitestest}/${total2}; i=int(pc); print (pc-i<0.5)?i:i+1 }")
-percentinvalidtest=$(awk "BEGIN { pc=100*${invalidsitestest}/${total2}; i=int(pc); print (pc-i<0.5)?i:i+1 }")
+#percentactivetest=$(awk "BEGIN { pc=100*${activesitestest}/${total2}; i=int(pc); print (pc-i<0.5)?i:i+1 }")
+#percentinactivetest=$(awk "BEGIN { pc=100*${inactivesitestest}/${total2}; i=int(pc); print (pc-i<0.5)?i:i+1 }")
+#percentinvalidtest=$(awk "BEGIN { pc=100*${invalidsitestest}/${total2}; i=int(pc); print (pc-i<0.5)?i:i+1 }")
 
 # **************************************************
 # Write Version and Exploit Count into the README.md
