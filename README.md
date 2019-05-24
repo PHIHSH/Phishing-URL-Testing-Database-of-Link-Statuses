@@ -132,8 +132,3 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 
-| Phishing Link Status  | Link Count | Percentage | Last Tested |
-| ---: | :---: | :---: | :---: |
-| ACTIVE <img src="https://github.com/mitchellkrogza/Phishing-URL-Testing-Database-of-Link-Statuses/blob/master/dev-tools/green.jpg"/> | Data  | Data | Data |
-| INACTIVE <img src="https://github.com/mitchellkrogza/Phishing-URL-Testing-Database-of-Link-Statuses/blob/master/dev-tools/red.jpg"/>  | Data  | Data | Data |
-| INVALID <img src="https://github.com/mitchellkrogza/Phishing-URL-Testing-Database-of-Link-Statuses/blob/master/dev-tools/blue.jpg"/> | Data  | Data | Data |
