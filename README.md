@@ -3,10 +3,10 @@
 # Phishing Links Testing Database  
 
 _______________
-#### Version: V1.0.11234
-#### ACTIVE Phishing URLs (Tested): [](https://raw.githubusercontent.com/mitchellkrogza/Phishing-URL-Testing-Database-of-Link-Statuses/master/phishing-urls-ACTIVE.txt) ( %)
-#### INACTIVE Phishing URLs (Tested): [](https://raw.githubusercontent.com/mitchellkrogza/Phishing-URL-Testing-Database-of-Link-Statuses/master/phishing-urls-INACTIVE.txt) ( %)
-#### INVALID Phishing URLs (Tested): [](https://raw.githubusercontent.com/mitchellkrogza/Phishing-URL-Testing-Database-of-Link-Statuses/master/phishing-urls-INVALID.txt) ( %)
+#### Version: V1.0.11235
+#### ACTIVE Phishing URLs (Tested): [17061](https://raw.githubusercontent.com/mitchellkrogza/Phishing-URL-Testing-Database-of-Link-Statuses/master/phishing-urls-ACTIVE.txt) (42 %)
+#### INACTIVE Phishing URLs (Tested): [23108](https://raw.githubusercontent.com/mitchellkrogza/Phishing-URL-Testing-Database-of-Link-Statuses/master/phishing-urls-INACTIVE.txt) (57 %)
+#### INVALID Phishing URLs (Tested): [419](https://raw.githubusercontent.com/mitchellkrogza/Phishing-URL-Testing-Database-of-Link-Statuses/master/phishing-urls-INVALID.txt) (1 %)
 *****************************
 #### Total Phishing URL's Captured: [88480](https://raw.githubusercontent.com/mitchellkrogza/Phishing-URL-Testing-Database-of-Link-Statuses/master/input-source/ALL-feeds-URLS.lst)
 ____________________
