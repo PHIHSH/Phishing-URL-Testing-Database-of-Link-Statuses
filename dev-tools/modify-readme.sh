@@ -11,6 +11,8 @@ tmprdme=tmprdme
 tmprdme2=tmprdme2
 version=V1.0.${TRAVIS_BUILD_NUMBER}
 versiondate="$(date)"
+testdate=$(date +%F)
+testtime=$(date +%T)
 startmarker="_______________"
 endmarker="____________________"
 totalexploits=$(wc -l < ${TRAVIS_BUILD_DIR}/input-source/ALL-feeds-URLS.lst)
@@ -35,7 +37,7 @@ percentinvalid=$(awk "BEGIN { pc=100*${invalidsites}/${total}; i=int(pc); print 
 
 updatereadme () {
 
-printf '%s\n%s%s\n%s%s\n%s%s\n%s%s\n%s\n%s%s\n%s' "${startmarker}" "#### Version: " "${version}" "#### ACTIVE Phishing Links (${versiondate}): " "[${activesites}](https://raw.githubusercontent.com/mitchellkrogza/Phishing-URL-Testing-Database-of-Link-Statuses/master/phishing-links-ACTIVE.txt) (${percentactive} %)" "#### INACTIVE Phishing Links (${versiondate}): " "[${inactivesites}](https://raw.githubusercontent.com/mitchellkrogza/Phishing-URL-Testing-Database-of-Link-Statuses/master/phishing-links-INACTIVE.txt) (${percentinactive} %)" "#### INVALID Phishing Links (${versiondate}): " "[${invalidsites}](https://raw.githubusercontent.com/mitchellkrogza/Phishing-URL-Testing-Database-of-Link-Statuses/master/phishing-links-INVALID.txt) (${percentinvalid} %)" "*****************************" "#### Total Phishing Links Captured: " "[${totalexploits}](https://raw.githubusercontent.com/mitchellkrogza/Phishing-URL-Testing-Database-of-Link-Statuses/master/input-source/ALL-feeds-URLS.lst) - ${versiondate}" "${endmarker}" >> ${tmprdme}
+printf '%s\n%s%s\n%s%s\n%s%s\n%s%s\n%s\n%s%s\n%s' "${startmarker}" "#### Version: " "${version}" "#### ACTIVE Phishing Links (${testdate}-${testtime}): " "[${activesites}](https://raw.githubusercontent.com/mitchellkrogza/Phishing-URL-Testing-Database-of-Link-Statuses/master/phishing-links-ACTIVE.txt) (${percentactive} %)" "#### INACTIVE Phishing Links (${testdate}-${testtime}): " "[${inactivesites}](https://raw.githubusercontent.com/mitchellkrogza/Phishing-URL-Testing-Database-of-Link-Statuses/master/phishing-links-INACTIVE.txt) (${percentinactive} %)" "#### INVALID Phishing Links (${testdate}-${testtime}): " "[${invalidsites}](https://raw.githubusercontent.com/mitchellkrogza/Phishing-URL-Testing-Database-of-Link-Statuses/master/phishing-links-INVALID.txt) (${percentinvalid} %)" "*****************************" "#### Total Phishing Links Captured: " "[${totalexploits}](https://raw.githubusercontent.com/mitchellkrogza/Phishing-URL-Testing-Database-of-Link-Statuses/master/input-source/ALL-feeds-URLS.lst) - ${testdate}-${testtime}" "${endmarker}" >> ${tmprdme}
 mv ${tmprdme} ${tmprdme2}
 ed -s ${tmprdme2}<<\IN
 1,/_______________/d
