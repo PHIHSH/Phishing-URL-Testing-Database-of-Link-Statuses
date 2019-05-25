@@ -1,16 +1,11 @@
 ?"
-(;
 (3)/Adobe/Validation/login.php"
-ID:
 Login
 Login.html"
 Order/Adobe
 PDF/nsw/data/office365.htm"
 auto/"
 bt
-class=
-{font-size:
-f.submit();
 ftp://188.128.111.33/IPTV/TV1324/view.html
 ftp://188.128.111.33/web/sec.htm
 ftp://me@createkindlebooks.org:Noobasshole@createkindlebooks.org/index.html
@@ -23,8 +18,8 @@ http://3.92.45.119:874/o/?email=
 http://40.70.42.104?rid=8i4DR5f
 http://47.106.67.7:8086/2
 http://47.106.67.7:8086/3
-http://47.106.67.7:8086/5?Y21jY3VyaWVAaG90bWFpbC5mcg0=1Y21jY3VyaWVAaG90bWFpbC5mcg0=2Y21jY3VyaWVAaG90bWFpbC5mcg0=3002
 http://47.106.67.7:8086/5/?Y21jY3VyaWVAaG90bWFpbC5mcg0=1Y21jY3VyaWVAaG90bWFpbC5mcg0=2Y21jY3VyaWVAaG90bWFpbC5mcg0=3002
+http://47.106.67.7:8086/5?Y21jY3VyaWVAaG90bWFpbC5mcg0=1Y21jY3VyaWVAaG90bWFpbC5mcg0=2Y21jY3VyaWVAaG90bWFpbC5mcg0=3002
 http://66.98.5.165:84/banco.popular.aspx
 http://ASQCQE.COM/0utlook13
 http://FdbygE.aceitesublime.com/.bnznz3
@@ -46,7 +41,6 @@ http://compassliquor.co.nz?
 "http://d.agkn.com/pixel/2642/?&col=2024
 "http://derquiestaciononline.com
 "http://e-access.oidc.idp.elogin.sso.com.lrr.controller-team.login.index.html.takwa-inspiration.com/att
-http://eloufy.tails
 "http://etr-sm-edep998.com/banks/ATB/?sessionid=5e639134cbdf89db4243214a433b2426&amp;securessl=true
 http://facebook.com-continue-LjeICNKgsNs.miraelyse.com
 http://facebook.com-continue-LjeICNKgsNs.miraelyse.com/land.php?step=665cc9c54f9f6feaccf1ecc16a2780d3
@@ -1000,8 +994,8 @@ https://hittbtc.net:443
 "https://honestcontractor.com/wp-content/uploads/2019/content/873eac77d5891480956e6f72a1d99ed6?user=jim@thejimburkefamily.com&amp;_verify?service=mail&amp;data:text/html;charset=utf-8;base64
 "https://honestcontractor.com/wp-content/uploads/2019/content/b5543084b8c1b081cd31bfa9f1ca7721?user=jim@thejimburkefamily.com&amp;_verify?service=mail&amp;data:text/html;charset=utf-8;base64
 "https://honestcontractor.com/wp-content/uploads/2019/content/b8f0baa43920ead8a1754922f3f3b31d/?user=&.verify?service=mail&data:text/html;charset=utf-8;base64
-"https://honestcontractor.com/wp-content/uploads/2019/content/f306b9bd55e55da682f4092a3852230a/?user=jim@thejimburkefamily.com&amp;_verify?service=mail&amp;data:text/html;charset=utf-8;base64
 "https://honestcontractor.com/wp-content/uploads/2019/content/f306b9bd55e55da682f4092a3852230a?user=jim@thejimburkefamily.com&amp;_verify?service=mail&amp;data:text/html;charset=utf-8;base64
+"https://honestcontractor.com/wp-content/uploads/2019/content/f306b9bd55e55da682f4092a3852230a/?user=jim@thejimburkefamily.com&amp;_verify?service=mail&amp;data:text/html;charset=utf-8;base64
 "https://href.li/?https://secure.runescape.com-rs.ru/m=weblogin/loginform315
 "http://sitelealiog-com.umbler.net/nama/portal/index1.php?19
 https://jcenice.com:443/wp-includes/pomo/we/yahoologin/820d2612acba142c9ad5bbf66384156a
@@ -1250,7 +1244,6 @@ http://yamato-wa.com:88/pp.html
 http://yamato-yu.com:81
 http://yamato-yu.com:81/index2.html
 http://yamato-yu.com:81/pp.html
-{margin-top:
 @net-tech.us"
 nic.wilson@telecom.co.nz"
 owa/index.php"
