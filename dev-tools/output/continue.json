@@ -1,10 +1,3 @@
 {
-    "/home/mitchellkrog/PyFuncebleTests/Phishing.URLS/input/ALL-feeds-URLS.lst": {
-        "ACTIVE": [
-            "https://www.amthucxeo.com/bot/93fba2e7/Up-dating3.php?country.x=-&ACCT.x=ID-PPL=PA324188.166.98.249=ScrPg=4d1e4b0c319902a5e9285c15b55a36493deaf67c0a4b03aa0774567cbc75f505S=$1$vS99j06/$PpPfCoQLdsCZ2m69z3dFt1CcjWLdSbgJiOT6tQVUGmsvnz4qMYDXBFPwuN7yKoH2hkEAlerpZ15R9afI3x80IEeOAaiyBpuXLr1mg532FTlH4Rzk7vQ6xCcjYNJ9n0tW8PDqdbofMKUsSwhVGZ92971478603"
-        ],
-        "INACTIVE": [
-            "http://manage.summary.appleid.apple.com.eorpedic.com/pjj"
-        ]
-    }
+    "/home/mitchellkrog/PyFuncebleTests/Phishing.URLS/input/ALL-feeds-URLS.lst": {}
 }
